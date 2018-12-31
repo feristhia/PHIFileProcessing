@@ -1,0 +1,1001 @@
+id	CIF	nomor_identitas	nama_sesuai_identitas	alamat
+1	CUST000001	5513356044383860	Puti Ratna Padmasari	Ds. Wahidin Sudirohusodo No. 799, Kupang 58166, NTT
+ 2 	CUST000002	4556085568899390	 Nadia L Agustina 	Gg. Kyai Gede No. 483, Sawahlunto 26889, Sumbar 
+3	CUST000003	Viki Hariyah	Jambi, Dahlia 477
+4	CUST000004	5414991088771110	Iksan Suwarno	Ki. Dahlia No. 543, Madiun 25474, JaTim
+5	CUST000005	6011062858521030	Umar Setiawan	Kpg. Orang 983, Bandung 80226, Jawa Barat
+6	CUST000006	4024007182053110	Hadi Natsir	Jr. Lumban Tobing No. 732, Batam 43831, Kepri
+7	CUST000007	5200650193764610	Nova Yuniarti	
+8	CUST000008	510943428766323O	Kadir Rajasa	Desa Sentot Alibasa No. 92, Banjarmasin Kalimantan Selatan
+9	CUST000009	5405490014300840	Tio Ban Cung	Dk. Rumah Sakit No. 23, Palembang 91530, JaTeng
+10	CUST000010	4024007182053110	Hadi Natsir	Batam - Lumban Tobing 732
+11	CUST000011	5594413739514990	Ade Ajeng Purwanti S.I.Kom	Jr. Umalas No. 445, Jayapura 20568, Papua
+12	CUST000012	4916400749404660	Jati Adi	Jalan raya Wates Kilometer 3 Yogyakarta Yogyakarta
+13	CUST000013	455647574948180O	Olivia Rahayu	Dk. Soekarno Hatta No. 770, Batu 76388, JaBar
+14	CUST000014	4024007149721660	Gina Pratiwi	Kpg. Setiabudhi No. 245, Tangerang 80051, SulTeng
+15	CUST000015	5114882255280530	Opung Mansur M.M.	Ki. R.E. Martadinata No. 391, Kendari 55051, DIY
+16	CUST000016	6011068935379450	Elisa Prastuti	Kpg. Suprapto No. 60, Tidore Kepulauan 33603, Maluku Utara
+17	CUST000017	5204646680624910	Asmad Sihombing	Abdullah 319 Metro jakarta Barat
+18	CUST000018	5310842372996320	Capa Gunawan	Gg. Kalimalang No. 33, Banjarmasin 60536, Kalimantan Selatan
+19	CUST000019	4024007177917710	Sabri Pangestu	Kampung  Agus Salim 527 Padang
+20	CUST000020	55245872984064OO	Radika Hendri Ramadhan S.Gz	Jr. Yap Tjwan Bing No. 525, Tg. Pinang  Kep Riau
+21	CUST000021	4556085568899390	Nadia Lintang Agustina	Gg. Kyai Gede No. 483, Sawahlunto 26889, Sumbar
+22	CUST000022	5548040671917160	Diana Andriani	Jr. Abdullah No. 234, Denpasar 25791, Bali
+23	CUST000023	5461008152511090	Hesti Anggraini	Kampung Dipatiukur 174, Cimahi Jawa Barat
+24	CUST000024	523448058716858O	Purwanto Wasis Ardianto S.E.	Jln. Industri No. 549, Bitung SulUt
+25	CUST000025	5549215284212220	Ratih Rahayu Wastuti M.Kom.	Ki. Jambu No. 29, Tarakan 40779, Kalimantan Utara
+26	CUST000026	5449924520294580	Jail Gunawan	Kyai Gede 542, Banjarbaru 10298, Kalimantan selatan
+27	CUST000027	5242155075234330	Prima Haryanto M.Farm	Cut Nyak Dien No. 872, Pangkal Pinang 56643, BangBel
+28	CUST000028	4929416019069670	Salman Manullang S.Sos	Jln. Bayam No. 858, Salatiga Jawa Tengah
+29	CUST000029	4024007170418210	Lukita Ega Jailani	Jend. Sudirman No. 896, Bandar Lampung 69294
+30	CUST000030	5332639317878030	Rusman Luwes Hutasoit	Dk. Basuki No. 348, Dumai Jambi
+31	CUST000031	6011158977332040	Asirwanda Pradana S.Gz	Ds. Bata Putih No. 805, Madiun 75463, Jawa Timur
+32	CUST000032	6011234314231560	Karsa Sitorus	Ki. Abdul 401, Ternate Maluku Utara
+33	CUST000033	4929614581019170	Ina Yanuar	Gang Abdul. Muis No. 691, Surakarta 97516, Jateng
+34	CUST000034	4024007193375820	Sari Hastuti S.Psi	Psr. Labu No. 889, Medan 63889, Sumut
+35	CUST000035	4916400749404660	Jati	Jl Wates Km. 3 Yogyakarta Yogyakarta
+36	CUST000036	4716834641345900	Abhi	Jalan Wahidin 966 RT 8 RW 9 Jogjakarta
+37	CUST000037	5272108387968490	Langgeng Joko Natsir	Kampung Radio no 348 Tanjungbalai Sumatera Utara
+38	CUST000038	5557286897432380	Mursita Surya Irawan	Jln. R.M. Said No. 980, Pangkal Pinang 64241, SumBar
+39	CUST000039	4556042253011460	Mustika Wibowo	Pasar Honggowongso No. 650, Cimahi 14565, Gorontalo
+40	CUST000040	6011062858521030	Setiawan Umar	Kampung Urang No. 983, Bandung Jawa Barat
+41	CUST000041	53958679306616GO	Luluh Anggriawan	Gg. Thamrin No. 559, Ambon 71806, Maluku
+42	CUST000042	4556836390	Septi Humaira Hartati M.M.	Ki. Suniaraja No. 768, Gunungsitoli 76050, Sumut
+43	CUST000043	4929273745492110	Yollanda Dinda	Jln. Sudirman No. 468, Payakumbuh 60901, BaBel
+44	CUST000044	5214145029625140	Vivi Cornelia Hastuti	Jln. Lada No. 965, Depok 35298, JaBar
+45	CUST000045	4539604112909270	Respati Prasetya M	Diponegoro No. 171, Probolinggo 57006, Jawa Timur
+46	CUST000046	4024007130732770	Hesti Iriana Yulianti	Jln. Tubagus Ismail No. 295, Administrasi Jakarta Selatan 30981, JakSel
+47	CUST000047	4024007192275820	Sari Hastuti S.Psi	Psr. Labu No. 889, Medan 63889, Sumut
+48	CUST000048	5306846665376680	Cemani Maheswara	Gg. Moch. Yamin No. 330, Probolinggo 26035, Jatim
+49	CUST000049	5549525421263710	Ratih Rahayu Wastuti M.Kom.	Ds. Baranang No. 878, Tanjungbalai 49900, Sumatera Utara
+50	CUST000050	5498382229499510	Salimah Pertiwi	Jl. Baan Blok GH 2 No. 828, Malang 68837, Jawa Timur
+51	CUST000051	448587294808402o	Aisyah Wulandari	Psr. Bakin No. 518, Bogor 41216, BaBel
+52	CUST000052	5495024463314370	Saptono Maryanto	Jln. Mulyadi No. 830, Tidore Kepulauan 60620, Maluku Utara
+53	CUST000053	5493961324104720	Upik Wisnu Pranowo	Gg. Gajah No. 833, Bengkulu
+54	CUST000054	4716350372213130	Rina Yance Uyainah	Dk. Labu No. 171, Medan Sumatera Utara
+55	CUST000055	5577991734992030	Ami Rachel Wulandari	Gang Sugiyopranoto No. 78, Pontianak 38059, Kalimantan Barat
+56	CUST000056		Rudi Baktianto Prakasa M.Ak	Ds. Pahlawan No. 110, Prabumulih 56896, JaTeng
+57	CUST000057	5433267102432260	Rendy Perdana	Jln. Mulyadi No. 430, Merauke 48881, Papua
+58	CUST000058	4532181623081990	Candra Yusup Suryaya	Psr. Jamika No. 878, Batam 30046, Riau
+59	CUST000059	4081427725150560	Gawati Wijayanti	Psr. Tubagus Ismail No. 119, Tanjung Pinang 47202, Maluku
+60	CUST000060	5514151401442140	Viki Hamima	Gg. Panjaitan No. 273, Tigaraksa 74832, Banten
+61	CUST000061	6011019242787170	Lily Astuti	Jln. Panjaitan No. 382, Malang 63501, JaTim
+62	CUST000062	4024007158395410	Kamal Permadi	Jln. W.R. Supratman No. 954, Probolinggo 23015, Jatim
+63	CUST000063	5385764714795100	Kencono	Jl. Dr Wahidin Sudirohusodo 48-A RT 019/06 Yogyakarta
+64	CUST000064	5214145029625140	Vivi Hastuti	Jln. Lada No. 965, Depok 35298, JaBar
+65	CUST000065	5256915995406940	Zalindra Pertiwi	Psr. Babah No. 588, Jakarta Timur
+66	CUST000066	4716350372213130	Rina Yance Uyainah	Dk. Labu No. 171, Medan Sumatera Utara
+67	CUST000067	6011068935379450	Elisa Prastuti	Kpg. Suprapto No. 60, Tidore Kepulauan 33603, Maluku Utara
+68	CUST000068	4916064078185380	Eriati	Jl. Imogiri Timur Km.12,8 Puton, Trimulyo, Jetis Yogyakarta
+69	CUST000069	4024007158395410	Kamal Permadi	Jln. W.R. Supratman No. 954, Probolinggo 23015
+70	CUST000070	4716557588698410	Ony Dina P	Basoka Raya No. 111, Bogor  Jabar
+71	CUST000071	4916357989617910	Gumelar	Jl. Raya Imogiri timur km 10 Yogyakarta
+72	CUST000072	5277074386112010		Jr. Baiduri No. 801, Singkawang 57908, DIY
+73	CUST000073	4716694992580370	Bala Winarno S.H.	Abdul Muis No. 558, Pontianak  Kalimantan Barat
+74	CUST000074	5272108387968490	Jaka Natsir Langgeng	Kampung Radio no 348 Tanjungbalai Sumatra Utara
+75	CUST000075	5557286897432380	Mursita Surya Irawan	Jln. R.M. Said No. 980, Pangkal Pinang 64241, SumBar
+76	CUST000076	5252399824747090	Budi Napi Tupulu	Pasar Gading No. 904, Sukabumi Banten
+77	CUST000077	4897655778500980	Bayuputra	Gambiran UH 5 No 359 Yogyakarta Yogyakarta
+78	CUST000078	4024007177917710	Sabri Pangestu	Kpg. Agus Salim No. 527, Padang 86753, Sum Bar
+79	CUST000079	5180118689798680	Rahayu Oliva Handayani	Ds. Badak No. 359, Madiun, Jatim
+80	CUST000080	5381356793479630	Qori Mulyani	Luwu No. 577, Palopo 15116, Sulawesi Selatan
+81	CUST000081	4024007111906230	Paulin T Yuliarti S.Psi	Pasar Arifin Nomor 432, Banjarbaru 26800, KalTim
+82	CUST000082	5364642336259190	Elis Haryanti	Dk. Nanas No. 870, Cimahi 65113, Jabar
+83	CUST000083	4916497755002750	Eko Gantar Maryadi S.Ked	Ki. Ciumbuleuit No. 278, Bandung
+84	CUST000084	5256915995406940	Zalindra Pertiwi	Psr. Babah No. 588, Jakarta Timur
+85	CUST000085	5433267102432260	Rendy Perdana	Jln. Mulyadi No. 430, Merauke 48881, Papua
+86	CUST000086	5277074386112010	Cawuk Saputra M.TI.	
+87	CUST000087	6011010135093160	Clara Diana Prastuti S.IP	Gang Salak No. 482, Tidore Kepulauan 25388, Malut
+88	CUST000088	5285750027210280	Cindy Vanesa A., M.Pd	Ki. Sukajadi 428, Padangpanjang 14663, Sumatera Barat
+89	CUST000089	4556836399004430	Septi Humaira Hartati M.M.	Ki. Suniaraja No. 768, Gunungsitoli 76050, Sumut
+90	CUST000090	5561292889969060	Rizki Halimah	Jalan Bakin No. 556, Kendari 32991, Sulawesi Tenggara
+91	CUST000091	5475021535727150	Rachel Andriani	Pasuruan, Desa Ekonomi RT 2 RW 8 Nomor 210 Jawatimur
+92	CUST000092	5209894339757050	Bahu Warna Wahendra	Rajawali No. 179, Pematangsiantar  Sumatera utara
+93	CUST000093	5372185148217940	Fitria Sudiati S.IP	Banten, Serang - Ahmad Yani nomor 734
+94	CUST000094		Diana Andriani	Jr. Abdullah No. 234, Denpasar 25791, Bali
+95	CUST000095		Elisa Prastuti	Kpg. Suprapto No. 60, Tidore Kepulauan 33603, Maluku Utara
+96	CUST000096	5475021535727150	Andriani Rachel	Pasuruan, Desa Ekonomi RT 2 RW 8 Nomor 210 Jawatimur
+97	CUST000097	5109434287663230	Kadir Rajasa	Desa Sentot Alibasa No. 92, Banjarmasin Kalimantan Selatan
+98	CUST000098	5114882255280530	Opung Mansur M.M.	Ki. R.E. Martadinata No. 391, Kendari 55051, DIY
+99	CUST000099	4485297842393740	Usman Habibi	
+100	CUST000100	4567052743194440	Jessica Purnawati M.Ak	Psr. Radio No. 450, Malang
+101	CUST000101	52295271207648O0	Cahya Putu Setiawan S.I.Kom	Dk. Simpang Tujuh No. 157, Prabumulih 81021, Sumatra Selatan
+102	CUST000102	4024007182053110	Hadi Natsir	Kepulauan Riau, Batam - Lumban Tobing 732
+103	CUST000103	6011245588527180	Oni Nurdiyanti	Jln. Bakin No. 915, Sawahlunto 40018, SumBar
+104	CUST000104	4556085568899390	Nadya Lintang Agustin	Sawahlunto
+105	CUST000105	4024006192275820	Sari Hastuti S.Psi	Psr. Labu No. 889, Medan 63889, Sumut
+106	CUST000106	4716834641345900	Abbi	Jalan Wahidin 966 RT 8 RW 9 Jogjakarta
+107	CUST000107	5200650193764610	Novia Yuliarti	
+108	CUST000108	4716694992580370	Bala Winarno S.H.	Abdul Muis No. 558, Pontianak  Kalimantan Barat
+109	CUST000109	5400476050223110	Elvin Kardi Prasetya M.Ak	Gang Sutoyo Bandar Lampung 927
+110	CUST000110	5124860017913840	Milla Pujiati	Laswi 353 RT 7 RW 8, Tangerang Selatan 15338 Banten
+111	CUST000111	5250538521391670	Hari Dirdja Wibisana	Jln. Cokroaminoto No. 649, Bitung 91110, Banten
+112	CUST000112	5242241754031350	Siti Nurdiyanti	Jr. Baing No. 9, Tasikmalaya Jawa Barat
+113	CUST000113	5124567316757880		Ds. Sutami No. 67, Sungai Penuh 75979, Bali
+114	CUST000114	5507201437748440	Sabrina Handayani	
+115	CUST000115	5567152854342660	Hilda Puspa	Jalan Wahidin No. 743, Langsa 87211, Aceh
+116	CUST000116	5336688906202920	Napitupulu Dodo	Gg. Jayawijaya No. 460, Osua 32020, Papua
+117	CUST000117	55245872984064OO	Radika H Ramadhan	Jr. Yap Tjwan Bing No. 525, Tanjung Pinang 90972, Kep Riau
+118	CUST000118	4916138049100240	Gumelar	Jalan Cemara No.28 A Randubelang, Sewon Yogyakarta
+119	CUST000119	4567052743194440	Jessica Purnawati M.Ak	Psr. Radio No. 450, Malang
+120	CUST000120	4916357989617910	Gumilar	Jalan Imogiri timur Kilometer 10 Yogyakarta
+121	CUST000121	4929954485070080	Unjani Pudjiastuti	Jln. Sukajadi No. 311, Makassar
+122	CUST000122	4916858561143200	Tania Hafshah Utami	Kpg. K.H. Wahid Hasyim (Kopo) No. 601, Magelang 93204, Jateng
+123	CUST000123	5567152854342660	Puspasari Hilda	Jl. Wahidin No. 743, Langsa 87211, Aceh
+124	CUST000124	4485024556028240	Nadia Yuniar S.IP	Desa Bata Putih No. 986, Kupang, Gorontalo
+125	CUST000125	5128376927778700	Opan Hutasoit	Kpg. Babakan No. 999, Malang
+126	CUST000126	4916440997787310	Junaedi 	Jln. Cikapayang No. 658, Yogyakarta 69067, Aceh
+127	CUST000127	5332639317878030	Luwes Rusman Hutasoit	 Basuki Nomor 348, Dumai 85252, Jambi
+128	CUST000128	5576923751427170	Genta Uyainah S.Gz	Jln. Mochammad Yamin No. 128, Medan 78777, Sumatera Utara
+129	CUST000129	4539604112909270	Prasetya Mulyana	Diponegoro No. 171, Probolinggo 57006, Jawa Timur
+130	CUST000130	5295994750697000	Eka Pradana	Kpg. Madiun No. 67, Administrasi Jakarta Pusat
+131	CUST000131	5308932649912500	Martani Prasasta	Ki. Basmol Raya No. 417, Bandaraceh 13031, Aceh
+132	CUST000132	5270204851583120	Pranawa Pradana	Dk. Flores No. 350, Jambi 
+133	CUST000133	448587294808402o	Aisyah Wulandari	Psr. Bakin No. 518, Bogor 41216, BaBel
+134	CUST000134	5428748540753890	Dinda Padma Hastuti	Cikutra Barat No. 598, Langsa, Aceh
+135	CUST000135	5467715091864550	Manah Zulkarnine	Jalan Baung No. 285, Langsa 85710, Aceh
+136	CUST000136	5454836293205520	Tantri Genta Lailasari S.IP	Psr. Ketandan No. 648, Padangpanjang, SumBar
+137	CUST000137	5455165793658810	Adi Situmorang	Jalan Basoka Raya No. 650, Cimahi 90847, Jawa Barat
+138	CUST000138	54299693 53420090	Rendy Perdana	Ds. Labu No. 761, Sabang 89889, Aceh
+139	CUST000139	5242155075234330	Prima Haryanto 	Psr. Cut Nyak Dien No. 872, Pangkal Pinang 56643, Bangka Belitung
+140	CUST000140	5413664172544580	Tan Chung Pok	Ds. Baranang Siang Indah No. 327, Sungai Penuh 87511, Jambi
+141	CUST000141	5588228266984940	Amelia Unjani Husada	Jln. Sugiono 914, Tangerang Banten
+142	CUST000142	4485920695398470	Kemba Nainggolan Danu	Labu No. 442, Cirebon, JaBar
+143	CUST000143	5531142200907990	Shania Pudjiastuti	Desa Bappenas No. 900, Banjar, Jawa Barat
+144	CUST000144	4916662978148840	Najwa Widiastuti	 Moch. Toha No. 783, Pariaman 12736, Sumatra Barat
+145	CUST000145	4539127383314490	Kadir Wibisono S.H.	Komp. Pondok Cilegon Indah B13/9 Banten
+146	CUST000146	55779917349920OO	Ami Rachel Wulandari	Gang Sugiyopranoto No. 78, Pontianak 38059, Kalimantan Barat
+147	CUST000147	4567052743194440	Jessica Purnawati M.Ak	Psr. Radio No. 450, Malang
+148	CUST000148	5583362442103970	Hendra Prasetya S.Gz	Psr. Villa No. 361, Sorong, Papua Barat
+149	CUST000149	4916400749404660	Jati	Jln Wates KM 3 Yogyakarta Yogyakarta
+150	CUST000150	5364642336259190	Haryanti Ellis	Dk. Nanas No. 870, Cimahi 65113, Jabar
+151	CUST000151	5173375698838020	Irma Zizi	Dk. Babakan No. 920, Bandung 33057, Jabar
+152	CUST000152	5561292889969060	Rizki Halimah	Jalan Bakin No. 556, Kendari 32991, Sulawesi Tenggara
+153	CUST000153	491649775500276O	Eko Gantar Maryadi S.Ked	Ki. Ciumbuleuit No. 278, Bandung
+154	CUST000154	5503747054623440	Yunni O.	Dk. Sutarjo No. 503, Batam 86824, Kepulauan Riau
+155	CUST000155	5275721168073160	Tari Usada	Sumatera Barat, Ki Wahidin Sudirohusodo 62, Bukittinggi
+156	CUST000156	5258132833092430	Henry Atmaja	Warung Buncit, Jalan Taman Marga satwa 12 Jak Sel
+157	CUST000157	5214145029625140	Vivi C Hastuti	Jln. Lada No. 965, Depok 35298, JaBar
+158	CUST000158	5512555832182850	Genta Husada	Kyai Haji Muwardi No. 962, Ambon  Maluku
+159	CUST000159	4532762862978300	Vera Victoria Hartati P	Gang Kalimalang No 298 Cilegon, Banten
+160	CUST000160	4O24OO713O73277O	Hesti Yulianti	Tubagus Ismail No. 295, Administrasi Jakarta Selatan
+161	CUST000161	5479864287899780	Marsitto Firmansyah	Psr. Bahagia  No. 814, Samarinda 33039, Kalimantan Timur
+162	CUST000162	5498382229499510	Salimah Pertiwi	Jl. Baan GH 2 No. 828, Malang Jawa Timur
+163	CUST000163	4916064078185380	Eri	Jl. Imogiri Timur Km.12,8 Puton, Trimulyo, Jetis Yogyakarta
+164	CUST000164	542996935342OO90	Rendy Perdana	Ds. Labu No. 761, Sabang 89889, Aceh
+165	CUST000165	5502285300694270	Sakti Pradana	Jln. Jaya 753, Payakumbuh 54480, Sumatera Barat
+166	CUST000166	5594655853652760	Lidya Nurdiyanti	Psr. Gremet 31, Padangpanjang 91131, Sumatera Barat
+167	CUST000167	5512555832182850	Genta Husada	Jalan KH Muwardi  962, Ambon 92429, Maluku
+168	CUST000168	5372185148217940	Fitria Sudiati S.IP	Serang Banten, Achmad yani 734
+169	CUST000169	4916138049100240	Gumilar	Jl.Cemara No.28A Randubelang, Sewon Yogyakarta
+170	CUST000170	6011160061976250	Soleh Santoso	Ds. Bata Putih No. 805, Madiun 75463, Jawa Timur
+171	CUST000171	5255753891363310	Oni Yulianti	Dk. Haji No. 480, Tangerang 36130, Banten
+172	CUST000172	5156998675362530	Cahyadi Ganda Hutapea	Ds. Merdeka No. 587, Pontianak, Kalimantan Barat
+173	CUST000173	55779917349920OO	Ami Rachel Wulandari	Gg. Sugiyopranoto No. 78, Pontianak 38059, Kalimantan Barat
+174	CUST000174	5585234814101620	Cakrawala P.	Jln. Laksamana 590, Makassar, Sulawesi Selatan
+175	CUST000175	KTP4539682500256130	Maya Andriani	Ki. Bara No. 898, Kediri
+176	CUST000176	5353419476217720	Jasmin Suhartini	Psr. WR Supratman No. 23, Batam 27050, Kep Riau
+177	CUST000177	5207983845051470	Samiah Rahayu	Ds. Padang No. 714, Cilegon 35940, Banten
+178	CUST000178	5270204851583120	Pradana Pranawa	Dk. Flores No. 350, Jambi 
+179	CUST000179	4929273745492110	Yolanda D	Jln. Sudirman No. 468, Payakumbuh 60901, BaBel
+180	CUST000180	5114882255280530	Opung Mansur M.M.	Ki. R.E. Martadinata No. 391, Kendari 55051, DIY
+181	CUST000181	4556042253011460	Mustika Wibowo	Pasar Honggowongso No. 650, Cimahi 14565, Gorontalo
+182	CUST000182	5372185148217940	Fitria Sudiati S.IP	Dk. Achmad Yani No. 734, Serang, Banten
+183	CUST000183	4929571257922850	Damu Manullang	Jr. Bahagia  No. 990, Pangkal Pinang 72880, Ba Bel
+184	CUST000184	5512555832182850	Genta U	K.H. Muwardi No. 962, Ambon  Maluku
+185	CUST000185	5495024463314370	Maryanto Saptono	Jln. Mulyadi No. 830, Tidore Kepulauan 60620, Maluku Utara
+186	CUST000186	4556226415428850	Vivi Diana 	Jr. Sentot Alibasa No. 972, Sukabumi Jabar
+187	CUST000187	4929416019069670	Manullang Salman	Jln. Bayam No. 858, Salatiga Jawa Tengah
+188	CUST000188	5162282054974500	Salahudin Jarua	Kampung madrasah no 719 blok 8 Jayapura
+189	CUST000189	4929416019069670	Manullang Salman	Jln. Bayam No. 858, Salatiga Jawa Tengah
+190	CUST000190	4024007105085230	Umaya Waskita	Psr. Muwardi No. 538, Tangerang Selatan 26590, Banten
+191	CUST000191		Zizi Rachel Astuti M.TI.	Jr. Pasirkoja No. 644, Administrasi Jakarta Barat 
+192	CUST000192	448587294808402o	Aisyah Wulandari	Psr. Bakin No. 518, Bogor 41216, BaBel
+193	CUST000193	4532203651030000	Salsabila Z	Jl Bayakali Bungur Nomor 937, Tanjungbalai  Sumatera Utara
+194	CUST000194	4929474264800000	DEVI	Jr. Reksoninten No. 47, Bima 66782, Lampung
+195	CUST000195	5514151401442140	Vicky Hamima Wahyuni S.T.	Gg. Panjaitan No. 273, Tigaraksa 74832, Banten
+196	CUST000196	4539809928850370	Kambali	Jr. Taman No. 243, Sorong 70349, Papua Barat
+197	CUST000197	5258132833092430	Henri A	Jl. Taman Margasatwa No. 12, Warung Buncit, Jakarta Selatan
+198	CUST000198	5234609816983540	Ellis Namaga	Jr. Wahidin No. 971, Blitar Jawa Timur
+199	CUST000199	5381356793479630	Qori Mulyani	Luwu No. 577, Palopo 15116, Sulawesi Selatan
+200	CUST000200	5553748373175900	Marsito Warsita Marpaung	Dk. Bata Putih No. 7, Pangkal Pinang 93618, Bangka belitung
+201	CUST000201	5192407456579430	Yulia Pia Permata	
+202	CUST000202	4532751137432220	I Gede Perkasa	Jl. Tukad Badung 168 C Denpasar – Bali
+203	CUST000203	5156998675362530	Cahyadi Hutapea	Ds. Merdeka No. 587, Pontianak, Kalimantan Barat
+204	CUST000204	5549525421263710	Ratih Rahayu Wastuti M.Kom.	Ds. Baranang No. 878, Tanjungbalai 49900, Sumatera Utara
+205	CUST000205	5405425066528700	Lim Siau Po	Maluku Utara, Ternate Sentot Alibasa No 324
+206	CUST000206	5110303660585720	Clara Wijayanti	Jakarta
+207	CUST000207	5502285300694270	Sakti Pradana	Jln. Jaya No. 753, Payakumbuh 54480, Sumatera Barat
+208	CUST000208	5414629215050580	Ghani Jagaraga	Kpg. Gedebage Selatan No. 299, Makassar 71776, SulSel
+209	CUST000209	4929471179028710	Vicky Hariyah	Jalan Dahlia 47 Jambi
+210	CUST000210	5211654496507300	Anita	Hang 910, Pekan baru Riau
+211	CUST000211	5301831652075750	Kania Widiastuti	Kpg. Orang No. 210, Sibolga 98637, SulTra
+212	CUST000212	5409162640301140	Liem Siauw Khe	Pasar Suryo Pranoto No. 905, Sungai Penuh 23413, Jambi
+213	CUST000213	5264376342570320	Eman Taswir Simbolon	Jln. Eka No. 896, Palopo 98944, MalUt
+214	CUST000214	4556182077267580	Vega Ardianto	Kali No. 383, Bukittinggi 91986, SulBar
+215	CUST000215	5414991088771110	Iksan Suwarna	Ki. Dahlia No. 543, 25474, JaTim
+216	CUST000216	5161156836370260	Hassanah, Fitriyani	Jr. Banda No. 42, Palu 91144, Sulteng
+217	CUST000217	5255753891363310	Oni Yulianti	Dk. Haji No. 480, Tangerang 36130, Banten
+218	CUST000218	4716483364092100	Keisha Genta Mandasari	Ds. Pelajar Pejuang 45 No. 247, Bandung 79279, DKI
+219	CUST000219	5128376927778700	Opan Hutasoit	Kpg. Babakan No. 999, Malang
+220	CUST000220	5502285300694270	Sakti Pradana	Jln. Jaya No. 753, Payakumbuh Sumatera Barat
+221	CUST000221	4929571257922850	Damu Manullang	Jr. Bahagia  No. 990, Pangkal Pinang 72880, BaBel
+222	CUST000222	4081427725150560	Gawati Wijayanti	Psr. Tubagus Ismail No. 119, Tanjung Pinang 47202, Maluku
+223	CUST000223	4532472213938120	Koko Prabawa Wasita M.Ak	Gg. Gremet No. 35, Palu 29156, Kalimantan Selatan
+224	CUST000224	5475021535727150	Rachel Andriani	Pasuruan, Desa Ekonomi RT 2 RW 8 Nomor 210 Jawatimur
+225	CUST000225	4716866427869500	Adi	Sugeng Jeroni No.28 Yogyakarta Yogyakarta
+226	CUST000226	5256915995406940	Jalindra Pratiwi	Psr. Babah No. 588, Jakarta Timur
+227	CUST000227	4024007158395410	Kamal Permadi	
+228	CUST000228	5549525421263710	Ratih Rahayu Wastuti M.Kom.	Ds. Baranang No. 878, Tanjungbalai 49900, Sumatera Utara
+229	CUST000229	5209894339757050	Bahuwarna Mahendra	Ds. Rajawali No. 179, Pematang siantar Sumatera utara
+230	CUST000230	5364133569272360	Hamzah Tasdik Megantara S.H.	Jln. Samanhudi No. 297, Malang 61901, BaBel
+231	CUST000231	5594655853652760	Lidya Nurdiyanti	Pasar Gremet No. 31, Padangpanjang Sumatera Barat
+232	CUST000232	4929954485070080	Unjani Puji Astuti	Jln. Sukajadi No. 311 RT 4 RW 5, Makassar
+233	CUST000233	5576267396681980	Mahdi Budiyanto	Jl. Tentara Pelajar No. 658, Solok Sumatera barat
+234	CUST000234	5347353885442180	Restu Pujiati	Ds. B.Agam 1 No. 779, Administrasi Jakarta Barat
+235	CUST000235	5567152854342660	Hilda Puspasari	Jln. Wahidin No. 743, Langsa 87211, Aceh
+236	CUST000236	4929614581019170	Ina Yuniar binti manurung	Gg. Abdul. Muis No. 691, Surakarta 97516, Jateng
+237	CUST000237	52997038375273OO	Eka Nashiruddin	Pasar Tentara Pelajar No. 227, Palembang SumSel
+238	CUST000238	4929954485070080	Unjani Pujiastuti	Jln. Sukajadi No. 311, Makassar
+239	CUST000239	5242241754031350	Siti 	Jalan Baing No. 9, Tasikmalaya 97155, Jawa Barat
+240	CUST000240	5585234814101620	Cakrawala Permadi	Jln. Laksamana No. 590, Makassar, Sulawesi Selatan
+241	CUST000241	5498088515343240	I Nyoman Damar	Jl. Bisma No. 68, Ubud, Bali
+242	CUST000242	5199644351019250	Pudji Aryani	
+243	CUST000243	4532103651039110	Salsabila Zulaika	Jln Baya Kali Bungur No. 937, Tanjungbalai 53991, Sumatera Utara
+244	CUST000244	5258132833092430	Henry Atmaja	Taman Margasatwa No. 12, Warung Buncit, Jakarta Selatan
+245	CUST000245	54602413225759IO	Laila Pratiwi	Gang Rajiman No. 524, Sibolga  Sumatera Utara
+246	CUST000246	6011158977332040	Asirwanda Pradana S.Gz	Ds. Bata Putih No. 805, Madiun 75463, Jawa Timur
+247	CUST000247	5204646680624910	Asmadi S	Perum Metro Abdullah 319 Jakbar
+248	CUST000248	5391026601115900	Kania Permoto	Dk. Antapani Lama No. 458, Kediri 35780, JaBar
+249	CUST000249	4929427288465320	Oman Marbun	Basoka Raya No. 559, Administrasi Jakarta Timur
+250	CUST000250	5543002542159720	R Narji Maryadi	Sunaryo No. 140, Pangkal Pinang, Bangka Belitung
+251	CUST000251	4532265704299040	Perkasa	Gg. M.T. Haryono No. 998, Banjarbaru 90923, Kalimantan Selatan
+252	CUST000252	531488O679274300	Devi Palastri	Jln. Bayan No. 733, Tangerang 13509, DIY
+253	CUST000253	5391026601115900	Kaniya Permata	Dk. Antapani Lama No. 458, Kediri 35780, JaBar
+254	CUST000254	4929571257922850	Damu Manullang	Jalan Pangkal Pinang Bahagia 990, Bangka Belitung
+255	CUST000255	5220911672812730	Violet Citra Setiadi	Kalimantan Selatan, Banjarmasin
+256	CUST000256	5126480855572470	Irnanto Suryono S.I.Kom	Gg. Tubagus Ismail No. 848, Administrasi Jakarta Timur
+257	CUST000257	5229527120764810	Cahya Putu Setiawan S.I.Kom	Dk. Simpang Tujuh No. 157, Prabumulih 81021, Sumatra Selatan
+258	CUST000258	6011219931100860	Clara Yulianti	Desa Banceng Pondok 626, Banjarbaru, Kalimantan Selatan
+259	CUST000259	4024007162691070	Maras Putra S	Raden No. 527, Pekalongan 93952, SulBar
+260	CUST000260	6011234314231560	Karsa Sitorus	Ki. Abdul No. 401, Ternate Maluku Utara
+261	CUST000261	5234609816983540	Ellis N	Jr. Wahidin 971, Blitar Jawa Timur
+262	CUST000262	5449924520294580	Zail Gunawan M.Pd	Psr. Kyai Gede 542, Banjarbaru 10298, Kalimantan selatan
+263	CUST000263	5308932649912500	Martani Prasasta	Ki. Basmol Raya No. 417, Bandaraceh 13031, Aceh
+264	CUST000264	5275721168073160	Tari Usada	Ki. Wahidin Sudirohusodo No. 62, Bukittinggi 61392, Sumatera Barat
+265	CUST000265	4929474264800000	Devy U	Jr. Reksoninten No. 47, Bima 66782, Lampung
+266	CUST000266	4916357989617910	Gumilar	Jl. Raya Imogiri timur km 10 Yogyakarta
+267	CUST000267	4556182077267580	Vega Ardianto	Sumatera barat
+268	CUST000268	4716936601849160	Warsa Haryanto S.Psi	Ds. Bayam No. 81, Surabaya 44957, JaTim
+269	CUST000269	44872948084020	Aisyah Wulandari	Psr. Bakin No. 518, Bogor 41216, BaBel
+270	CUST000270	49294465320	Oman Marbun	Basoka Raya No. 559, Administrasi Jakarta Timur
+271	CUST000271	5270204851583120	Pranowo Perdana	Dk. Flores No. 350, Jambi 
+272	CUST000272	5475021535727150	Rachel A	Pasuruan, Jawa Timur. Desa Ekonomi no 210
+273	CUST000273	5549544863968340	Marsito Warsita Marpaung	Jln. Bambu No. 819, Palangka Raya 97784, KalTeng
+274	CUST000274	5513356044383860	Puti Ratna Padmasari 	Desa Wahidin Sudirohusodo  799, Kupang 58166, NTT
+275	CUST000275	5505004834695600	Lantar Gilang Latupono S.E.I	Psr. Muwardi No. 682, Bau-Bau 77977, Sulawesi Tenggara
+276	CUST000276	6011068935379450	Prastuti Elisa	Kpg. Suprapto No. 60, Tidore Kepulauan 33603, Maluku Utara
+277	CUST000277	4024007149721660	Gina Pratiwi	Kpg. Setiabudhi No. 245, Tangerang 80051, SulTeng
+278	CUST000278	4716834651346900	Abi	Jln. Wahidin No. 996, RT 8 RW 9, Yogyakarta
+279	CUST000279	4485920695398470	Kemba Danu Nainggolan S.IP	Labu No. 442, Cirebon, JaBar
+280	CUST000280	4528061539728550	Jelita Rahima	Gg. Gajah No. 599, Solo 39471, JaTim
+281	CUST000281	5440093893953600	Aswani Aditya Tamba S.Pd	Bagonwoto  970, Palangkaraya 48561, KalTeng
+282	CUST000282	6011245588527180	Nur Diyanti Oni	Jalan Bakin 915, Sawahlunto 40018, SumBar
+283	CUST000283	4024007162691070	Maras 	Raden No. 527, Pekalongan 93952, SulBar
+284	CUST000284	5576923751427170	Genta Uyainah S.Gz	Jln. M. Yamin No. 128, Medan 78777, Sumatera Utara
+285	CUST000285	5256915995406940	Jalindra Pertiwi	Psr. Babah No. 588, Jakarta Timur
+286	CUST000286	5173375698838020	Irma Z Rahmawati	Dk. Babakan No. 920, Bandung 33057, Jabar
+287	CUST000287	5583362442103970	Hendra Prasetya S.Gz	Psr. Villa No. 361, Sorong, Papua Barat
+288	CUST000288	5549544863968340	Marsito Warsita Marpaung	Jln. Bambu No. 819, Palangka Raya 97784, KalTeng
+289	CUST000289	60110192427871GO	Lili Astuti	Jln. Panjaitan No. 382, Malang 63501, JaTim
+290	CUST000290	4916064078185380	Eriati	Jl. Imogiri Timur Km.12,8 Puton, Trimulyo, Jetis Yogyakarta
+291	CUST000291	5567152854342660	Hilda Puspasari	Jln. Wahidin 743, Langsa 87211, Aceh
+292	CUST000292	4024007162691070	Maras Putra M.Pd.	Raden No. 527, Pekalongan 93952, SulBar
+293	CUST000293	536413356927236O	Hamzah Tasdik Megantara S.H.	Jln. Samanhudi No. 297, Malang 61901, BaBel
+294	CUST000294	5498382229499510	Salimah Pertiwi	Jl. Baan Blok GH 2 No. 828, Malang  Jawa Timur
+295	CUST000295	4024007105085230	Umay Waskita	Psr. Muwardi No. 538, Tangerang Selatan 26590, Banten
+296	CUST000296	5124567316757880	Olga Tampubolon	Ds. Sutami No. 67, Sungai Penuh 75979, Bali
+297	CUST000297	4916357989617910	Gumelar	Jalan Raya Imogiri timur km 10 Yogyakarta
+298	CUST000298	5449924520294580	Jail Gunawan	Psr. Kyai Gede  542, Banjarbaru 10298, Kalimantan selatan
+299	CUST000299	5308932649912500	Martani Prasasta	Ki. Basmol Raya No. 417, Bandaraceh 13031, Aceh
+300	CUST000300	5336688906202920	Dodo Napi Tupulu	Gg. Jayawijaya No. 460, Osua 32020, Papua
+301	CUST000301	6011208504813050	Clara Yulianti	Komplek Pelajar Pejuang 45 / 577, Pangkal Pinang  Bangka Belitung
+302	CUST000302	5440093893953600	Aswani Aditya Tamba S.Pd	Bagonwoto  970, Palangkaraya 48561, KalTeng
+303	CUST000303	5281628730857600	Indah Mandasari M.Farm	Gg. Raya Ujungberung No. 987, Sungai Penuh 73212, SulUt
+304	CUST000304	4532472213938120	Koko Prabawa Wasita M.Ak	Gg. Gremet No. 35, Palu 29156, Kalimantan Selatan
+305	CUST000305	6011062858521030	Umar Setiawan	Kampung Urang No. 983, Bandung Jawa Barat
+306	CUST000306	4929954485070080	Unjani Pujiastuti	Jln. Sukajadi No. 311, Makassar
+307	CUST000307	5568182379911740	Zizi Rachel Astuti M.TI.	Jr. Pasirkoja No. 644, Administrasi Jakarta Barat 
+308	CUST000308	5401081879464390	Gasti Agustina	Ketandan 121 Tebing Tinggi
+309	CUST000309	4024007182053110	Hadi Natsir	Lumban Tobing No. 732, Batam 43831
+310	CUST000310	5493961324104720	Upik Wisnu Pranowo S.IP	
+311	CUST000311	5414776730028510	Ilyas Emong Sirait S.IP	
+312	CUST000312		Ilyas Emong Sirait S.IP	Ki. Abdul Muis No. 196, Madiun 25937, SulBar
+313	CUST000313	5495024463314370	Maryanto Saptono	Kepulauan Tidore, Jalan Mulyadi no 830, Maluku Utara
+314	CUST000314	5475021535727150	Rachel	Pasuruan Desa Ekonomi Jawa Timur 
+315	CUST000315	4024007149721660	Gina Pratiwi	Kpg. Setiabudhi No. 245, Tangerang 80051, SulTeng
+316	CUST000316	5596021438228220	Gandewa Simanjuntak	Jl. Labu No. 762, Kediri 52777, Jatim
+317	CUST000317	5503747054623440	Yuni Oktaviani	Kep. Riau, Batam. Sutarjo B12/503
+318	CUST000318	4024007105085230	Umaya Was	Psr. Muwardi No. 538, TangSel 26590, Banten
+319	CUST000319	4024007130386880	Safina Uyainah	Wahid No. 127, Prabumulih 97322, NTT
+320	CUST000320	4024007107685700	Zyzy Yulianti	
+321	CUST000321	5207983845051470	Samiyah Rahayu	Ds. Padang No. 714, Cilegon 35940, Banten
+322	CUST000322	5130625283796430	Bakda Sitorus	Jln. Gajah No. 370, Bontang 94921
+323	CUST000323	4539809928850370	K. Saragih	Jr. Taman No. 243, Sorong 70349, Papua Barat
+324	CUST000324	4434742410753270	Nurul Anastasia Melani S.E.I	Mochammad Yamin 622 Pangkal Pinang
+325	CUST000325	6011010135093160	Clara Diana Prastuti S.IP	Maluku Utara, Kepulauan Tidore, Gang Salak 482
+326	CUST000326	5414629215050580	Ghani Jaga raga	Kpg. Gedebage Selatan No. 299, Makassar 71776, SulSel
+327	CUST000327	5229527120764820	Cahya Putu Setiawan S.I.Kom	Dk. Simpang Tujuh No. 157, Prabumulih 81021, Sumatra Selatan
+328	CUST000328	5405425066528700	Liem Siauw Po	Sentot Alibasa 324 ternate
+329	CUST000329	5364133569272360	Hamzah Tasdik Megantara S.H.	Jln. Samanhudi No. 297, Malang 61901, BaBel
+330	CUST000330	5180118600098680	Rahayu Olivia 	Ds. Badak No. 359, Madiun, Jatim
+331	CUST000331	399004430	Septi Humaira Hartati M.M.	Ki. Suniaraja No. 768, Gunungsitoli 76050, Sumut
+332	CUST000332	5596021438228220	Gandewa Simanjuntak	Jl. Labu No. 762, Kediri 52777, Jatim
+333	CUST000333	5512555832182850	Genta Usada	Kyai Haji Muwardi No. 962, Ambon 92429, Maluku
+334	CUST000334	4929106273650750	Balidin Saputra	Jr. Ters. Pasir Koja No. 772, Cirebon 82871, Jawa Barat
+335	CUST000335	4916400749404660	Jatiadi	Jl Wates Kilometer 3 Yogyakarta Yogyakarta
+336	CUST000336	4539604112909270	Respati Prasetya Mulyana	Diponegoro No. 171, Probolinggo 57006, Jawa Timur
+337	CUST000337	523448058716858O	Purwanto Wasis Ardianto S.E.	Jln. Industri 549, Bitung SulUt
+338	CUST000338	5124860017913840	Mila Pia Fujiati M.Kom.	Laswi No 353, Tangerang, Banten
+339	CUST000339	5502285300694270	Sakti Pradana	Jln. Jaya 753, Payakumbuh  Sumatera Barat
+340	CUST000340	4485048312919220	Bela Novitasari	Kpg. Bahagia  Timur No. 185, Palopo 58744, SulSel
+341	CUST000341	4716866427869500	Ady	Sugeng Jeroni No.28 Yogyakarta Yogyakarta
+342	CUST000342	5454836293205520	Tantri G. Lailasari, S.IP	Psr. Ketandan No. 648, Padangpanjang, SumBar
+343	CUST000343	4556056227010600	Dalima Prastuti, S.Farm	Jl. Suryo No. 553, Banjar  Jawa Barat
+344	CUST000344	4929106273650750	Balidin Saputra	Jr. Ters. Pasir Koja No. 772, Cirebon 82871, Jawa Barat
+345	CUST000345	4929474264800000	Devi U	Jr. Reksoninten No. 47, Bima 66782, Lampung
+346	CUST000346	5513356044383860	Puti Ratna Padmasari S.IP	Desa Wahidin Sudirohusodo No. 799, Kupang 58166, NTT
+347	CUST000347	5123616962358720	Rudi Baktianto Prakasa M.Ak	
+348	CUST000348	5440093893953600	Aswani Aditya Tamba S.Pd	Bagonwoto  970, Palangkaraya 48561, KalTeng
+349	CUST000349	5495024463314370	Maryanto Saptono	Jl. Mulyadi No. 830, Tidore Kepulauan 60620, Maluku Utara
+350	CUST000350	4075611918558360	Rina Purwanti	Gg. Baha No. 165, Padangsidempuan 39417, DKI
+351	CUST000351		Eman Taswir Simbolon	Jln. Eka No. 896, Palopo 98944, MalUt
+352	CUST000352	5209894339757050	Bahuwarna Mahendra	Rajawali No. 179, Pematangsiantar 
+353	CUST000353	5583362442103970	Hendra Prasetya S.Gz	Pasar Villa No. 361, Sorong, Papua Barat
+354	CUST000354	4532103651039110	Salsabila Zulaika	Jl Baya Kali Bungur No. 937, Tanjungbalai 53991, Sumatera Utara
+355	CUST000355	4716936601849160	Warsa Haryanto S.Psi	Ds. Bayam No. 81, Surabaya 44957, JaTim
+356	CUST000356	4485920695398470	Kemba Danu	Labu No. 442, Cirebon, JaBar
+357	CUST000357	4532731244866860	I Gede Wayan	Jl. Nangka Selatan No. 163 Denpasar – Bali
+358	CUST000358	5395867930661660	Luluh Anggriawan	Gg. Thamrin No. 559, Ambon 71806, Maluku
+359	CUST000359	5461008152511090	Hesti Anggraini	Kpg. Dipati ukur 174, Cimahi  Jawa Barat
+360	CUST000360	5211654496507300	Anita	Jl Hang 910, Pekan baru Riau
+361	CUST000361	4916064078185380	Eri	Jl. Imogiri Timur Km.12,8 Puton, Trimulyo, Jetis Yogyakarta
+362	CUST000362	5334951287701100	Suryatmi Hasna	Psr. Barat No. 348, Pariaman 56073, Sumatera Barat
+363	CUST000363	4024007192275820	Sari Hastuti S.Psi	Psr. Labu No. 889, Medan 63889, Sumut
+364	CUST000364	4528061539728550	Jelita R	Gg. Gajah No. 599, Solo 39471, JaTim
+365	CUST000365	5495214942928330	Nyoman Damar Prasetya	Jalan Jendral Ahmad Yani No. 661, Banjar Jawa Barat
+366	CUST000366	5413664172544580	Tan Tjung Po	Ds. Baranang Siang Indah No. 327, Sungai Penuh 87511, Jambi
+367	CUST000367	5514151401442140	Vicky Hamima Wahyuni S.T.	Gg. Panjaitan No. 273, Tigaraksa 74832, Banten
+368	CUST000368	5207983845051470	Samiah Rohaya	Ds. Padang No. 714, Cilegon 35940, Banten
+369	CUST000369	4916858561143200	Tania Hafshah Utami	Kpg. K.H. Wahid Hasyim (Kopo) No. 601, Magelang 93204, Jateng
+370	CUST000370	4532472213938120	Engko Prabawa Wasita	Gg. Gremet No. 35, Palu 29156, Kalimantan Selatan
+371	CUST000371	4716866427869500	Adi	Jalan Sugeng Jeroni No.28 Yogyakarta Yogyakarta
+372	CUST000372	5513356044383860	Putri Radna Padmasari	Ds. Wahidin Sudirohusodo No. 799, Kupang 58166, NTT
+373	CUST000373	5242155075234330	Primo Haryanto M.Farm	Psr. Cut Nyak Dien No. 872, Pangkal Pinang 56643, Bangka Belitung
+374	CUST000374	5457906329359260	Bakti adi Situmorang	Jalan Baranang Siang No. 189, Singkawang Kalimantan
+375	CUST000375	5475021535727150	Rahel A	Desa Ekonomi 210 RT 2 RW 8, Pasuruan Jawa Timur
+376	CUST000376	5524587298406400	Radika Hendri Ramadan S.Gz	Jl. Yap Tjwan Bing  525, Tg. Pinang 90972, Kep Riau
+377	CUST000377	4716534685463900	Bahuwirya Jefri Rajasa	Desa Flora 319 RT 4 RW 5 Sibolga
+378	CUST000378	5543002542159720	Maryadi, Raihan Narji	Dk. Sunaryo 140, Pangkal Pinang, Bangka Belitung
+379	CUST000379	5585234814101620	Tjakrawala P.	Jl. Laksamana 590, Makassar 90575, Sulawesi Selatan
+380	CUST000380	5264761669081100	Yanuar Cahyadi	Imam Bonjol 707 Makassar Sulawesi Selatan
+381	CUST000381	5429969353420090	Rendy Perdana	Ds. Labu No. 761, Sabang 89889, Aceh
+382	CUST000382	4916475907608950	Ketut Wiana	Resto Liap Liap, Jalan Monkey Forest, Ubud, Bali
+383	CUST000383	55245872984064OO	Radika Hendri Ramadhan S.Gz	Jr. Yap Tjwan Bing No. 525, Tanjung Pinang 90972, Kep Riau
+384	CUST000384	5391026601115900	Kania Permata	Dk. Antapani Lama No. 458, Kediri 35780, JaBar
+385	CUST000385	5395867g30661660	Luluh Anggriawan	Gg. Thamrin No. 559, Ambon 71806, Maluku
+386	CUST000386	4897655778500980	Bayu Putra	Gambiran UH 5 No 359 Yogyakarta Yogyakarta
+387	CUST000387	5498382229499510	Salimah Pertiwi	Jl. Baan Blok GH 2 No. 828, Malang  Jawa Timur
+388	CUST000388	5232354348404420	Halima Mardhiyah	BLITAR
+389	CUST000389	4916662978148840	Najwa Widiastuti	M. Toha No. 783, Pariaman 12736, Sumatera Barat
+390	CUST000390	4897655778500980	Bayuputra	Gambiran UH 5 No 359 Yogyakarta Yogyakarta
+391	CUST000391	4024007130732770	Hesti Iriana Y	Jalan Tubagus Ismail No. 295, Administrasi Jakarta Selatan
+392	CUST000392		Oman Marbun	Basoka Raya No. 559, Administrasi Jakarta Timur
+393	CUST000393	54602413225759IO	Laila Pratiwi	Gg. Rajiman No. 524, Sibolga  Sumatera Utara
+394	CUST000394		Elisa Prastuti	
+395	CUST000395	4716232276376110	Ratna Ade Purwanti S.H.	Kpg. Madiun No. 837, Palembang 98610, SumSel
+396	CUST000396		Upik Wisnu Pranowo	Gang Gajah No. 833, Bengkulu
+397	CUST000397	5250538521391670	Hari Dirja Wibisono	Jln. Cokroaminoto No. 649, Bitung 91110, Banten
+398	CUST000398	54551654936588100	Adi Situmorang	Jl Basoka Raya No. 650, Cimahi 90847, Jawa Barat
+399	CUST000399	4532751137432220	I Gede Perkasa	Jl. Tk Badung 168 C Denpasar – Bali
+400	CUST000400	5199644351019250	Puji Aryani C	
+401	CUST000401	4716557588698410	Oni Dina Pratiwi	Basoka Raya  111, Bogor  Jawa Barat
+402	CUST000402	5405490014300840	Tio Ban Cung	Dk. Rumah Sakit No. 23, Palembang 91530, JaTeng
+403	CUST000403	4929106273650750	Balidin Saputra	Jr. Ters. Pasir Koja No. 772, Cirebon 82871, Jawa Barat
+404	CUST000404	5336688906202920	Dodo Napitupulu M.Pd	Gg. Jayawijaya No. 460, Osua 32020, Papua
+405	CUST000405		Diana Andriani	Jr. Abdullah No. 234, Denpasar 25791, Bali
+406	CUST000406	5583362442103970	Hendra Prasetya S.Gz	Pasar Villa No. 361, Sorong, Papua Barat
+407	CUST000407	5460241322575910	Laila Pratiwi	Gg. Rajiman  524, Sibolga  Sumatera Utara
+408	CUST000408	6011019242787170	Lily Astuti	Jln. Panjaitan No. 382, Malang 63501, JaTim
+409	CUST000409	4485738208448950	Atmaja Halim	Jln. Babur Royan 561, Balikpapan , Kalimantan Timur
+410	CUST000410	5461008152511090	Hesti Anggraini	Kampung Dipatiukur No. 174, Cimahi 53414, Jawa Barat
+411	CUST000411	4716700453729410	Muhammad Simanjuntak M.Ak	Gg. Ters. Buah Batu No. 396, Tual 94508, KalBar
+412	CUST000412	4423330424853730	Mulyanto Putra	Antapani Lama No. 758, Yogyakarta 53104
+413	CUST000413	5425146328741730	Waluyo J Prasetyo	Bakti no 699, Kupang NTT
+414	CUST000414	5500099863915000	Gasti Nilam Yuliarti M.Kom.	Ki. Otista No. 800, Sukabumi 71048, Banten
+415	CUST000415	5220911672812730	Viollet Citra Sudihati	Jln. Gajah 587 Banjar masin Kalimantan Selatan
+416	CUST000416	5449924520294580	Jail G., M.Pd	Psr. Kyai Gede No. 542, Banjarbaru 10298, Kalimantan selatan
+417	CUST000417		Ella Pertiwi	Ki. Abdul. Muis No. 863, Madiun
+418	CUST000418	5475021535727150	Andriani Rahel	Jawa Timur, Desa Ekonomo no 210 Pasuruan
+419	CUST000419	KTP4556597358461300	Banara Nashiruddin	Jr. Adisucipto No. 105, Tangerang  
+420	CUST000420	5543002542159720	Narji Maryadi, Raihan	
+421	CUST000421	5310842372996320	Capa Gunawan	Gg. Kalimalang No. 33, Banjarmasin 60536, Kalimantan Selatan
+422	CUST000422	5454836293205520	Tanti Genta Lailasari S.IP	Psr. Ketandan No. 648, Padangpanjang, SumBar
+423	CUST000423	5400476050223110	Elvin Kardi Prasetya M.Ak	Gg. Sutoyo No. 927, Bandar Lampung, Lampung
+424	CUST000424	448587294808402o	Aisyah Wulandari	Psr. Bakin No. 518, Bogor 41216, BaBel
+425	CUST000425	5596021438228220	Gandewa Simanjuntak	Jl. Labu No. 762, Kediri 52777, Jatim
+426	CUST000426	4539682500256130	Maya Andriani	Ki. Bara No. 898, Kediri
+427	CUST000427	5385764714795100	Kencana	Jl. Dr Wahidin Sudirohusodo 48-A RT 019/06 DI Jogjakarta
+428	CUST000428	4929106273650750	Balidin Saputra	Jr. Ters. Pasir Koja No. 772, Cirebon 82871, Jawa Barat
+429	CUST000429	5596021438228220	Gandewa Simanjuntak	Jl. Labu No. 762, Kediri Jatim
+430	CUST000430	4929273745492110	Yolanda Dinda	Jln. Sudirman No. 468, Payakumbuh 60901, BaBel
+431	CUST000431	5498382229499510	Salimah Pertiwi	Jl. Baan Blok GH 2 No. 828, Malang 68837, Jawa Timur
+432	CUST000432	5347353885442180	Restu Fujiati	Ds. B.Agam 1 No. 779, Administrasi Jakarta Barat
+433	CUST000433	4485320794748760	DRAJAT	Kpg. Jagakarsa No. 675, Cilegon 54605, Banten
+434	CUST000434	5548040671917160	Diana Andriani	
+435	CUST000435	4024007192375820	Sari Hastuti S.Psi	Psr. Labu No. 889, Medan 63889, Sumut
+436	CUST000436	5560632972222670	Queen Halimah	Jalan Bakin No. 556, Kendari 32991, Sulawesi Tenggara
+437	CUST000437	5401081879464390	Gasti Agustina	Ketandan No. 121, Tebingtinggi Jambi
+438	CUST000438	4556475749481800	Olivia Rahayu	Dk. Soekarno Hatta No. 770, Batu 76388, JaBar
+439	CUST000439	5467422222025940	Maya Yuliana Suryatmi S.Gz	Jln. Banceng Pondok No. 598, Yogyakarta 38591, JaTeng
+440	CUST000440	518OOO8689798680	Rahayu Oliva Handayani	Ds. Badak No. 359, Madiun, Jatim
+441	CUST000441	5385764714795100	Kencono	Jl. Dr Wahidin Sudirohusodo 48-A RT 019/06 DI Yogyakarta
+442	CUST000442	4916858561143200	Tania Hafshah Utami	Kpg. K.H. Wahid Hasyim (Kopo) No. 601, Magelang 93204, Jateng
+443	CUST000443	5204646680624910	Asmadi Sihombing	Dk. Abdullah No. 319, Metro 78044, JakBar
+444	CUST000444	4929614581019170	Ina Yanuar binti manurung	Jalna Abdul. Muis No. 691, Surakarta 97516, Jateng
+445	CUST000445	542996935342OO90	Rendy Perdana	Ds. Labu No. 761, Sabang 89889, Aceh
+446	CUST000446	40240071076857000	Yulianti, Zizi	Kpg. Rajawali Timur No. 60, Sorong 68431, NTB
+447	CUST000447	4445834100535960	Kemba Jagaraga Tampubolon	Jr. Yos Sudarso No. 488, Probolinggo 12338, Jatim
+448	CUST000448	4539604112909270	Respati Prasetya Mulyana	Diponegoro No. 171, Probolinggo 57006, Jawa Timur
+449	CUST000449	4556836399004430	Septi Humaira Hartati M.M.	Ki. Suniaraja No. 768, Gunungsitoli 76050, Sumut
+450	CUST000450	4897655778500980	Bayu	Gambiran UH 5 No 359 Yogyakarta Yogyakarta
+451	CUST000451	4423330424853730	Mulyanto P	Ki. Antapani Lama No. 758, Yogyakarta 
+452	CUST000452	5576267396681980	Madi Budiyanto	Jl. Tentara Pelajar No. 658 B12 RT 7, Solok Sumatera barat
+453	CUST000453	4485024556028240	Nadia Yuniar S.IP	Ds. Bata Putih No. 986, Kupang 
+454	CUST000454	5334951287701100	Hasna S	Psr. Barat No. 348, Pariaman 56073, Sumatera Barat
+455	CUST000455	4024007192275520	Sari Hastuti S.Psi	Psr. Labu No. 889, Medan 63889, Sumut
+456	CUST000456	5405425066528700	Lim Siauw Po	Dk. Sentot Alibasa No. 324, Ternate 44867, Maluku
+457	CUST000457	4485320794748760	D. Habibi	Kpg. Jagakarsa No. 675, Cilegon 54605, Banten
+458	CUST000458	5128376927778700	Opan Hutasoit	Kampung Babakan nomor 999 Malang
+459	CUST000459	5549544863968340	Marsito Warsita Marpaung	Jln. Bambu No. 819, Palangka Raya 97784, KalTeng
+460	CUST000460		Diana Andriani	Jr. Abdullah No. 234, Denpasar 25791, Bali
+461	CUST000461	5314880679274300	Devi Palastri	Jln. Bayan No. 733, Tangerang 13509, DIY
+462	CUST000462	4532751137432220	I Gede Perkasa	Jalan Tukad Badung 168 C Denpasar – Bali
+463	CUST000463	4539127383314490	Kadir Wibisono S.H.	Pondok Cilegon Indah B13 no 9, Cilegon, Banten
+464	CUST000464	4485558618892200	Jono Dabuk	Kpg. Basmol Raya No. 123, Singkawang 35483, Kalimantan Barat
+465	CUST000465	4024007130386880	Safina Uya	Ds. Wahid No. 127
+466	CUST000466	6011160061976250	Soleh Santoso	Ds. Bata Putih No. 805, Madiun 75463, Jawa Timur
+467	CUST000467	5109434287663230	Kadir Rajasa	Desa Sentot Alibasa No. 92, Banjarmasin 38738, KalSel
+468	CUST000468	5594413739514990	Ade Ajeng Purwanti S.I.Kom	Jr. Umalas No. 445, Jayapura 20568, Papua
+469	CUST000469	5285750027210280	Cindy Vanesa Agustina M.Pd	Ki. Sukajadi No. 428, Padangpanjang , Sumatera Barat
+470	CUST000470	5549544863968340	Marsito Warsita Marpaung	Jln. Bambu No. 819, Palangka Raya 97784, KalTeng
+471	CUST000471	5308932649912500	Martani Prasasta	Ki. Basmol Raya No. 417, Bandaraceh 13031, Aceh
+472	CUST000472	4916662978148840	Najwa Widiastuti	Muhamad Toha No. 783, Pariaman 12736, Sumatra Barat
+473	CUST000473	4556182077267580	Vega Ardianto	Kali No. 383, Bukittinggi  SumBar
+474	CUST000474	5414776730028510	Ilyas Emong Sirait S.IP	Ki. Abdul Muis No. 196, Madiun 25937, SulBar
+475	CUST000475	5425146328741730	Waluyo Jatmiko Prasetya S.Pt	Psr. Bakti No. 699, Kupang 43944, NTT
+476	CUST000476	4024007105085230	Umaya Waskita	
+477	CUST000477	5523559464675060	Agnes Faizah Mayasari	Jln. Reksoninten No. 241, Kediri 57162, Jawa Timur
+478	CUST000478	5531142200907990	Sania Pujiastuti	Desa Bappenas  900, Banjar, Jawa Barat
+479	CUST000479	5275721168073160	Tari Usada	Bukittinggi SumBar, Ki Wahiddin Sudiro Husodo 62
+480	CUST000480	KTP4556597358461300	Banara Nashiruddin	Jr. Adisucipto No. 105, Tangerang Selatan
+481	CUST000481	4929471179028710	Vicki Hariya	Dahlia no 477 Jambi
+482	CUST000482	4556056227010600	Dalima Prastuti S.Farm	Jl. Suryo No. 553, Banjar  Jawa Barat
+483	CUST000483	5561292889969060	Rizki Halimah	Jalan Bakin No. 556, Kendari 32991, Sulawesi Tenggara
+484	CUST000484	4532265704299040	Prakasa Wibisono	Gg. M.T. Haryono No. 998, Banjarbaru 90923, Kalimantan Selatan
+485	CUST000485	5334951287701100	Hasna Surya Atmi	Psr. Barat No. 348, Pariaman 56073, Sumatera Barat
+486	CUST000486	554598606024658O	Nadia Umi Laksmiwati	Gg. Lembong No. 771, Sorong Papua Barat
+487	CUST000487	5594655853652760	Lidya Nurdiyanti	Pasar Gremet No. 31, Padangpanjang Sumatera Barat
+488	CUST000488	4024007107685700	Zizi Yulianti	Kpg. Rajawali Timur No. 60, Sorong 68431, NTB
+489	CUST000489	4716834641345900	Abi y	Yogyakarta
+490	CUST000490		Ella Pertiwi	
+491	CUST000491	5199644351019250	Puji Aryani	
+492	CUST000492	5385764714795100	Kencana	Jalan Dr Wahidin Sudirohusodo 48-A RT 019/06 DI Jogjakarta
+493	CUST000493	5306846665376680	Cemani Maheswara	Gg. Moch. Yamin No. 330, Probolinggo 26035, Jatim
+494	CUST000494	5596021438228220	Gandewa Simanjuntak	Jln. Labu 762, Kediri  Jatim
+495	CUST000495	4539127383314490	Kadir Wibisono S.H.	Pondok Cilegon Indah B13 no 9, Cilegon, Banten
+496	CUST000496	5200650193764610	Nova Yuliarti	
+497	CUST000497	5277074386112010	Cawuk Saputra M.TI.	Jr. Baiduri No. 801, Singkawang 57908, DIY
+498	CUST000498	45565973584613O0	Banara Nashiruddin	Jr. Adisucipto No. 105, Tangerang  
+499	CUST000499	5225743003513970	Amira Mardiyah	Desa Antapani Lama Samarinda
+500	CUST000500	5560632972222670	Queen Halimah	Jalan Bakin No. 556, Kendari 32991, Sulawesi Tenggara
+501	CUST000501	4539809928850370	Kambali Saragih	Jr. Taman No. 243, Sorong 70349, Papua Barat
+502	CUST000502	4532265704299040	Perkasa Wibisono M.Kom.	Gg. M.T. Haryono No. 998, Banjarbaru 90923, Kalimantan Selatan
+503	CUST000503	5543002542159720	Raihan N Maryadi	Sunaryo 140, Pangkal Pinang 47650, Bangka Belitung
+504	CUST000504	6011219931100860	Clara Yulianti	Banceng Pondok No. 626, Banjarbaru, Kalimantan Selatan
+505	CUST000505	4024007111906230	Paulin Tami Yuliarti S.Psi	Psr. Arifin No. 432, Banjarbaru 26800, KalTim
+506	CUST000506	4539809928850370	Kembali Saragih	Jr. Taman No. 243, Sorong 70349, Papua Barat
+507	CUST000507	6011062858521030	Oemar Setiawan	Kpg. Orang  983, Bandung Jawa Barat
+508	CUST000508	5560632972222670	Queen Halimah	Jalan Bakin No. 556, Kendari 32991, Sulawesi Tenggara
+509	CUST000509	5285750027210280	Cindy Vanesa Agustina	Ki. Sukajadi No. 428, Padangpanjang
+510	CUST000510	4539127383314490	Kadir Wibisono S.H.	PCI B13 no 9, Banten
+511	CUST000511	4423330424853730	Mulyanto Putra S.E.I	Ki. Antapani Lama No. 758, Yogyakarta 53104
+512	CUST000512	4916783784508580	Muhamad	Psr. Ekonomi No. 258, Palu 92383, Sulawesi tengah
+513	CUST000513	4485558618892200	Jono 	Kpg. Basmol Raya No. 123, Singkawang 35483, Kalimantan Barat
+514	CUST000514	4556182077267580	Vega Ardianto	Gang Kali 383 Bukittinggi
+515	CUST000515		Maya Yuliana Suryatmi S.Gz	Jln. Banceng Pondok No. 598, Yogyakarta 38591, JaTeng
+516	CUST000516	5414629215050580	Ghani Jaga raga Sitorus	Kpg. Gedebage Selatan No. 299, Makassar 71776, SulSel
+517	CUST000517	5588228266984940	Unjani Usada Amelia	Jln. Sugiono No. 914, Tangerang Banten
+518	CUST000518	5161156836370260	Hassanah, Fitriani	Jr. Banda No. 42, Palu 91144, Sulteng
+519	CUST000519	4024007158395410	Kamal Permadi	
+520	CUST000520	5588228266984940	Amalia Unjani Usada	Jln. Sugiono 914, Tangerang Banten
+521	CUST000521	4024007107685700	Zizi Yulianty	Rajawali Timur 60, Sorong 68431, NTB
+522	CUST000522	4485558678892200	Jono Dabuke	Kpg. Basmol Raya No. 123, Singkawang 35483, Kalimantan Barat
+523	CUST000523	5126480855572470	Irnanto Suryono S.I.Kom	Gg. Tubagus Ismail No. 848, Administrasi Jakarta Timur
+524	CUST000524	5507201437748440	Sabrina Handayani	Ki. Baranangsiang No. 771, Pematangsiantar 40651, Aceh
+525	CUST000525	5523559464675060	Agnes Faizah Mayasari	Jalan Reksoninten 241, Kediri Jawa Timur
+526	CUST000526	5457906329359260	Baktiadi Situmorang	Jalan Baranang Siang No. 189 Kalimantan
+527	CUST000527	5513356044383860	Padmasari Radna Puri	Wahidin Sudirohusodo No. 799, Kupang 58166, NTT
+528	CUST000528	453273124486686O	I Gede Wayan	Jl. Nangka Selatan No. 163 Denpasar – Bali
+529	CUST000529	5549525421263710	Ratih Rahayu Wastuti M.Kom.	Ds. Baranang No. 878, Tanjungbalai 49900, Sumatera Utara
+530	CUST000530	5130625283796430	Bakda Sitorus	Jln. Gajah No. 370, Bontang 94921
+531	CUST000531	4556042253011460	Mustika Wibowo	Pasar Honggowongso No. 650, Cimahi 14565, Gorontalo
+532	CUST000532	4556042253011460	Mustika Wibowo	Pasar Honggowongso No. 650, Cimahi 14565, Gorontalo
+533	CUST000533	5560632972222670	Queen Halimah	Jalan Bakin No. 556, Kendari 32991, Sulawesi Tenggara
+534	CUST000534	536413356927236O	Hamzah Tasdik Megantara S.H.	Jln. Samanhudi No. 297, Malang 61901, BaBel
+535	CUST000535	5557286897432380	Mursita Surya Irawan	Jln. R.M. Said No. 980, Pangkal Pinang 64241, SumBar
+536	CUST000536	6011019242000170	Astuti Lili	Jln. Panjaitan No. 382, Malang 63501, JaTim
+537	CUST000537	4916783784508580	Muhamad	Psr. Ekonomi No. 258, Palu 92383, Sulawesi tengah
+538	CUST000538	4485320794748760	Drajat H.	Kpg. Jagakarsa No. 675, Cilegon 54605, Banten
+539	CUST000539	5588228266984940	Husada Amelia Unjani	Jln. Sugiono 914, Tangerang 63470, Banten
+540	CUST000540	5531142200907990	Shania Pujiastuti	Desa Bappenas  90, Banjar 34849, Jawa Barat
+541	CUST000541	5557286897432380	Mursita Surya Irawan	Jln. R.M. Said No. 980, Pangkal Pinang 64241, SumBar
+542	CUST000542	5306846665376680	Cemani Maheswara	Gg. Moch. Yamin No. 330, Probolinggo 26035, Jatim
+543	CUST000543	5295994750697000	Eka Pradana	Kpg. Madiun No. 67, Administrasi Jakarta Pusat
+544	CUST000544	542874854 0753890	Dinda Padma Hastuti	Jalan. Cikutra Barat 598, Langsa, Aceh
+545	CUST000545	5364642336259190	Ellis Haryanti	Dk. Nanas No. 870, Cimahi 65113, Jabar
+546	CUST000546	5541779462110780	Zahra Indah Agustina	Gang Untung Suropati No. 953, Bau-Bau 43478, Sulawesi Tenggara
+547	CUST000547	5505004834695600	Latupono Lantar Gilang	Psr. Muwardi No. 682, Bau-Bau 77977, Sulawesi Tenggara
+548	CUST000548	5467715091864550	Manah Zulkarnain	Jalan Baung No. 285, Langsa 85710, Aceh
+549	CUST000549	510943428766323O	Kadir Rajasa	Desa Sentot Alibasa 92, Banjarmasin Kalimantan Selatan
+550	CUST000550	4024007130732770	Yulianti Hesti Iriana 	Jln. Tubagus Ismail No. 295, Administrasi Jakarta Selatan
+551	CUST000551	5541779462110780	Zahra Indah Agustina	Gg. Untung Suropati No. 953, Bau-Bau 43478, Sulawesi Tenggara
+552	CUST000552	5272108387968490	Langgeng Jaka Natsir	Kampung Radio no 348 Tanjungbalai
+553	CUST000553	5576267396681980	Madi Budi Yanto	Jl. Tentara Pelajar 658, Solok Sumatera barat
+554	CUST000554	5126480855572470	Irnanto Suryono S.I.Kom	Gg. Tubagus Ismail No. 848, Administrasi Jakarta Timur
+555	CUST000555	4916783784508580	Muhammad	Psr. Ekonomi No. 258, Palu 92383, Sulawesi tengah
+556	CUST000556	4412854937087760	Ani Ida Mandasari S.IP	Jln. Baan No. 360, Tebing Tinggi 31421, Riau
+557	CUST000557	5414991088771110	Ichsan Suwarno	Ki. Dahlia No. 543, Madiun 25474, JaTim
+558	CUST000558	5577991734992030	Ami Rachel Wulandari	Gg. Sugiyopranoto No. 78, Pontianak 38059, Kalimantan Barat
+559	CUST000559	5413664172544580	Tan Tjhung Pok	Ds. Baranang Siang Indah No. 327, Sungai Penuh 87511, Jambi
+560	CUST000560	5433267102432260	Rendy Perdana	Jln. Mulyadi No. 430, Merauke 48881, Papua
+561	CUST000561	5209894339757050	Bahu Warna Mahendra	Rajawali 179, Pematang siantar  Sumatra utara
+562	CUST000562	5242241754031350	Siti Nurdiyanti	Jln. Baing No. 9, Tasikmalaya 97155, Jawa Barat
+563	CUST000563	5512555832182850	Genta Husada	Kyai Haji Muwardi  962, Ambon  Maluku
+564	CUST000564	4485738208448950	Halim Atmaja	Jln. Baabur Royan No. 561, Balikpapan 
+565	CUST000565	5568182379911740	Zizi Rachel Astuti M.TI.	
+566	CUST000566	5123616962358720	Rudi Baktianto Prakasa M.Ak	Ds. Pahlawan No. 110, Prabumulih 56896, JaTeng
+567	CUST000567	5500099863915OOO	Gasti Nilam Yuliarti M.Kom.	Ki. Otista No. 800, Sukabumi 71048, Banten
+568	CUST000568	4916497755002750	Eko Gantar Maryadi S.Ked	Ki. Ciumbuleuit No. 278, Bandung
+569	CUST000569	5475021535727150	Rachel A	Ekonomi No. 210 RT 2 RW 8, Pasuruan  Jawa Timur
+570	CUST000570	40240071O7685700	Zizi Yulianti	Kpg. Rajawali Timur No. 60, Sorong 68431, NTB
+571	CUST000571	4075611918558360	Nadia Purwanti	Jalan Baha No. 165, Padangsidempuan 39417, DKI
+572	CUST000572	4485439495749170	Paramita Carla Kuswandari S.Farm	Dk. Tangkuban Perahu No. 985, Ambon 49432, Maluku
+573	CUST000573	5374459816832910	T Gadang Suryono	Gg. Jambu No. 811, Sungai Penuh 21373, KalUt
+574	CUST000574	5192407456579430	Yulia Pia Permata S.Gz	Jr. Banda No. 636, Tanjung Pinang 45530, Banten
+575	CUST000575	5381356793479630	Qori Mulyani	Luwu No. 577, Palopo 15116, Sulawesi Selatan
+576	CUST000576	5503747054623440	Oktaviani Yuni	Sutarjo Blok B12 no 503 Batam 
+577	CUST000577	4916475907608950	Ketut Wiana	Jl. Monkey Forest, Ubud, Bali
+578	CUST000578	4528061539728550	Jelita Rahimah	Gg. Gajah No. 599, Solo 39471, JaTim
+579	CUST000579	5285750027210280	Cindy Vanesa Agustina M.Pd	Sukajadi No. 428, Padangpanjang 14663, Sumatera Barat
+580	CUST000580	5194720497047420	Anggabaya Maulana	Psr. Abdul Rahmat No. 997, Yogyakarta
+581	CUST000581	4412854937087760	Ani Ida Mandasari S.IP	Jln. Baan No. 360, Tebing Tinggi 31421, Riau
+582	CUST000582	4024007130732770	Hesti 	Jln. Tbg Ismail No. 295,  Jakarta Selatan 30981, JakSel
+583	CUST000583	5305851571743840	Kawaca Napitupulu	Jln. K.H. Maskur No. 368, Surabaya Jatim
+584	CUST000584	5250538521391670	Hari Dirdja Wibisono	Jln. Cokroaminoto No. 649, Bitung 91110, Banten
+585	CUST000585	4532181623081990	Chandra Yusup	Psr. Jamika No. 878, Batam 30046, Riau
+586	CUST000586	5498088515343240	I Nyoman Damar	Jl. Bisma No. 68, Ubud, Bali
+587	CUST000587	6011019242787170	Lili Astuti	Jln. Panjaitan No. 382, Malang 63501, JaTim
+588	CUST000588	6011245588527180	Oni Nurdi Yanti	Jalan. Bakin 915, Sawahlunto SumBar
+589	CUST000589	4024007170418210	Lukita Ega Jailani	Dk. Jend. Sudirman No. 896, Bandar Lampung 69294, Lpg
+590	CUST000590	4532762862978300	Vera Victoria Hartati	Gang Kalimalang No 298 Cilegon, Banten
+591	CUST000591	5264376342570320	Eman Taswir Simbolon	
+592	CUST000592	4485048312919220	Novita Sari Bella	Kpg. Bahagia  Timur No. 185, Palopo 58744, SulSel
+593	CUST000593	6011010135093160	Clara Diana Prastuti S.IP	Kep. Tidore, Maluku Utara Gang Salak 482
+594	CUST000594	5455165793658810	Adi Situmorang	Jl. Basoka Raya No. 650, Cimahi 90847, Jawa Barat
+595	CUST000595	5498088515343240	I Nyoman Damar	Jl. Bisma No. 68, Ubud, Bali
+596	CUST000596	5588228266984940	Amalia Unjani Usada	Jalan Sugiono No. 914, Tangerang 63470, Banten
+597	CUST000597	55779917349920OO	Ami Rachel Wulandari	Gg. Sugiyopranoto No. 78, Pontianak 38059, Kalimantan Barat
+598	CUST000598	5467715091864550	Mana Zulkarnain	Jalan Baung No. 285, Langsa 85710, Aceh
+599	CUST000599	KTP5395867930661660	Luluh Anggriawan	Gg. Thamrin No. 559, Ambon 71806, Maluku
+600	CUST000600	5405490014300840	Tio Ban Chung	Dk. Rumah Sakit No. 23, Palembang 91530, JaTeng
+601	CUST000601	4916440997787310	Junaedi 	Jln. Cikapayang No. 658, Yogyakarta 69067, Aceh
+602	CUST000602	4024007149721660	Gina Pratiwi	Kpg. Setiabudhi No. 245, Tangerang 80051, SulTeng
+603	CUST000603	5353419476217720	Jasmine Suartini	Pasar WR Supratman No. 23, Batam 27050, Kep Riau
+604	CUST000604	4539393063123890	I Nyoman Perkasa	Jalan Tukad Badung 168 C Denpasar – Bali
+605	CUST000605	5425146328741730	Waluyo Jatmiko Prasetyo	Pasar Bakti 699 Kupang NTT
+606	CUST000606	4485439495749170	Paramita Carla Kuswandari S.Farm	Dk. Tangkuban Perahu No. 985, Ambon 49432, Maluku
+607	CUST000607	5308932649912500	Martani Prasasta	Ki. Basmol Raya No. 417, Bandaraceh 13031, Aceh
+608	CUST000608	5502285300694270	Sakti Pradana	Jln. Jaya No. 753, Payakumbuh 54480, Sumatera Barat
+609	CUST000609	4528061539728550	Jelita Rohimah	Gg. Gajah No. 599, Solo 39471, JaTim
+610	CUST000610	5162282054974500	Jarwa Salahudin	Kampung Madrasah BB 8 no 719 Jayapura, papua
+611	CUST000611	4485048312919220	Bella Novitasari S.Kom	Kpg. Bahagia  Timur No. 185, Palopo 58744, SulSel
+612	CUST000612	5455165793658810	Adi Situmorang	Jln Basoka Raya No. 650, Cimahi 90847, Jawa Barat
+613	CUST000613	5479864287899780	Marsito Firmansyah	Psr. Bahagia  No. 814, Samarinda 33039, Kalimantan Timur
+614	CUST000614	4929273745492110	Dinda Yolanda	Jln. Sudirman No. 468, Payakumbuh 60901, BaBel
+615	CUST000615	5207983845051470	Samiah Rahayu	Ds. Padang No. 714, Cilegon 35940, Banten
+616	CUST000616	5242241754031350	Siti	Jl Baing No. 9, Tasikmalaya Jawa Barat
+617	CUST000617	5561292889969060	Rizki Halimah	Jalan Bakin No. 556, Kendari 32991, Sulawesi Tenggara
+618	CUST000618	5252399824747070	Napitupulu Budi	Psr. Gading No. 904, Sukabumi 89588, Banten
+619	CUST000619	4716534685463900	Bahuwirya Jefri Rajasa	Flora No 319 RT/RW 4/5 Sibolga
+620	CUST000620	4916440997786410	Junaidi 	Jln. Cikapayang No. 658, Yogyakarta 69067, Aceh
+621	CUST000621	5549215284212220	Ratih Rahayu Wastuti M.Kom.	Ki. Jambu No. 29, Tarakan 40779, Kalimantan Utara
+622	CUST000622	45327312644866800	I Gede Wayan	Jl. Nangka Selatan No. 163 Denpasar – Bali
+623	CUST000623	5130625283796430	Bakda Sitorus	
+624	CUST000624	5156998675362530	Cahyadi Ganda	Ds. Merdeka No. 587, Pontianak, Kalimantan Barat
+625	CUST000625	5242155075234330	Haryanto Prima	Psr. Cut Nyak Dien No. 872, Pangkal Pinang 56643, Bangka Belitung
+626	CUST000626	5401081879464390	Gasti Agustina	Jr. Ketandan No. 121, Tebing Tinggi 36271, Jambi
+627	CUST000627	402400713073277	Hesti Iriana Yulianti	Tubagus Ismail  295, Administrasi Jakarta Selatan 30981, JakSel
+628	CUST000628	4929471179028710	Vicky Hariyah	Jalan Dahlia nomor 477 Jambi
+629	CUST000629	4485024556028240	Nadia Yuniar S.IP	Desa Bata Putih 986, Kupang 49671, Gorontalo
+630	CUST000630	4916858561143200	Tania Hafshah Utami	Kpg. K.H. Wahid Hasyim (Kopo) No. 601, Magelang 93204, Jateng
+631	CUST000631	4716834641345900	Abbi	Wahidin 966 depan dagadu jogja, Jogjakarta
+632	CUST000632	5200650193764610	Novayuliarti	
+633	CUST000633	5255753891363310	Oni Yulianti	Dk. Haji No. 480, Tangerang 36130, Banten
+634	CUST000634	5234609816983540	Elis N	Wahidin No. 971, Blitar Jawa Timur
+635	CUST000635	5498382229499510	Salimah Pertiwi	Jawa Timur, Jalan Baan GH 2/828 Malang
+636	CUST000636	5512555832182850	Genta Husada	KH Muwardi  962, Ambon  Maluku
+637	CUST000637	4024007105085230	Umaya Waskita	Pasar Muwardi No. 538, Tangerang, Banten
+638	CUST000638	55779917349920OO	Ami Rachel Wulandari	Gang Sugiyopranoto No. 78, Pontianak 38059, Kalimantan Barat
+639	CUST000639	522952712076UO10	Cahya Putu Setiawan S.I.Kom	Dk. Simpang Tujuh No. 157, Prabumulih 81021, Sumatra Selatan
+640	CUST000640	4556475749481890	Olivia Rahayu	Dk. Soekarno Hatta No. 770, Batu 76388, JaBar
+641	CUST000641	4716866427869500	Adhi	Sugeng Jeroni 28 Jogjakarta
+642	CUST000642	5310842372996320	Capa Gunawan	Gg. Kalimalang No. 33, Banjarmasin 60536, Kalimantan Selatan
+643	CUST000643	4716834641345900	Abi	Jalan Wahidin No 966 Jogjakarta
+644	CUST000644	5568182379911740	Zizi Rachel Astuti M.TI.	Jr. Pasirkoja No. 644, Administrasi Jakarta Barat 
+645	CUST000645	5585234814101620	Cakrawala Permadi	Jln. Laksamana 590, Makassar, Sulawesi Selatan
+646	CUST000646	6011219931100860	Clara Yulianti	Ds. Banceng Pondok 626, Banjarbaru 64255, Kalimantan Selatan
+647	CUST000647	5306846665376680	Cemani Maheswara	Gg. Moch. Yamin No. 330, Probolinggo 26035, Jatim
+648	CUST000648	6011158977332040	Asirwanda Pradana S.Gz	Ds. Bata Putih No. 805, Madiun 75463, Jawa Timur
+649	CUST000649	5475021535727150	Rachel Andriani=y	Ekonomi No. 210 RT/RW 2/8, Pasuruan 75523, Jawa Timur
+650	CUST000650	5162282054974500	Jarua Salahudin	Kpg. Madrasah No. 719, Jayapura 36813, Papua
+651	CUST000651	4716534685463900	Bahuwirya Jefri Rajasa	Ds. Flora No. 319, Sibolga 51435, SulBar
+652	CUST000652	542874854075389O	Dinda Padma Hastuti	Cikutra Barat No. 598, Langsa, Aceh
+653	CUST000653	5584413739514990	Ade Ajeng Purwanti S.I.Kom	Jr. Umalas No. 445, Jayapura 20568
+654	CUST000654	5543002542159720	Raihan Narji M	Sunaryo No. 140, Pangkal Pinang  Bangka Belitung
+655	CUST000655	4556085568899390	Nadya Lintang Agustina	Gg. Kyai Gede No. 483, Sawahlunto 26889, Sumatera barat
+656	CUST000656	4485320794748760	Drajat Habibi	Kpg. Jagakarsa No. 675, Cilegon 54605, Banten
+657	CUST000657	4024007165484850	Wani Rahimah M.M.	Ds. Baabur Royan No. 360, Palangka Raya 52175, DKI
+658	CUST000658	5545986060246580	Nadia Umi Laksmiwati	Gg. Lembong No. 771, Sorong Papua Barat
+659	CUST000659	5585234814101620	Tjakrawala Permadi	Jl. Laksamana 590, Makassar, Sulawesi Selatan
+660	CUST000660	4716936601849160	Warsa Haryanto S.Psi	Ds. Bayam No. 81, Surabaya 44957, JaTim
+661	CUST000661	5308932649912500	Martani Prasasta	Ki. Basmol Raya No. 417, Bandaraceh 13031, Aceh
+662	CUST000662	5162282054974500	Jarua Salahudin	Madrasah, 8/719 Jayapura
+663	CUST000663	5549215284212220	Ratih Rahayu Wastuti M.Kom.	Ki. Jambu No. 29, Tarakan 40779, Kalimantan Utara
+664	CUST000664		Eko Gantar Maryadi S.Ked	Ki. Ciumbuleuit No. 278, Bandung
+665	CUST000665	3485872948084020	Aisyah Wulandari	Psr. Bakin No. 518, Bogor 41216, BaBel
+666	CUST000666	4556226415428850	Vivi Diana Rahimah M.TI.	
+667	CUST000667	453968250025613O	Maya Andriani	Ki. Bara No. 898, Kediri
+668	CUST000668	5413664172544580	Tan Thung Po	Ds. Baranang Siang Indah No. 327, Sungai Penuh 87511, Jambi
+669	CUST000669	6011160061976250	Soleh Santoso	Ds. Bata Putih No. 805, Madiun 75463, Jawa Timur
+670	CUST000670	5232OO4348404420	Halimah Mardiyah	Basoka no 309 Blitar Jawa Timur
+671	CUST000671	5454836293205520	Tantri Genta Lailasari, S.IP	Psr. Ketandan No. 648, Padangpanjang, SumBar
+672	CUST000672	4539604112909270	Respati Prasetya	Diponegoro No. 171, Probolinggo 57006, Jawa Timur
+673	CUST000673	4916546054862340	Cayadi Winarno M.TI.	Psr. Kebangkitan Nasional No. 642, Padangsidempuan 95481, SumUt
+674	CUST000674	4556182077267580	Vega Ardianto	Bukit tinggi, Gg. Kali 383
+675	CUST000675	5523559464675060	Mayasari Agnes Faizah	Jln. Reksoninten 241, Kediri Jawa Timur
+676	CUST000676	4024007165484850	Wani Rahimah M.M.	Ds. Baabur Royan No. 360, Palangka Raya 52175, DKI
+677	CUST000677	5457906329359260	Baktiadi Situmorang	Jalan Baranang Siang No. 189, Singkawang  Kalimantan
+678	CUST000678	5124567316757880	Olga Tampubolon	Ds. Sutami No. 67, Sungai Penuh 75979, Bali
+679	CUST000679	4716557588698410	Onidina Pertiwi	Ki. Basoka Raya No. 111, Bogor
+680	CUST000680	6011208504813050	Clara Yulianti	Komplek Pelajar Pejuang 45 / 577, Pangkal Pinang 35771, Bangka Belitung
+681	CUST000681	4716534685463900	Bahuwirya Jefri Rajasa	Ds. Flora No. 319, Sibolga 51435, SulBar
+682	CUST000682	5568182379911740		Jr. Pasirkoja No. 644, Administrasi Jakarta Barat 
+683	CUST000683	4539393063123890	I Nyoman Perkasa	Jalan Tukad Badung 168 C Denpasar – Bali
+684	CUST000684	5507201437748440	Sabrina Handayani	Ki. Baranangsiang No. 771, Pematangsiantar 40651, Aceh
+685	CUST000685	4024007170418210	Lukita Ega Jailani	Jendral Sudirman No. 896, Bd Lampung 69294, Lampung
+686	CUST000686	5400476050223110	Elvin Kardi Prasetya M.Ak	Bandar Lampung
+687	CUST000687	5413664172544580	Tan Cung Po	Ds. Baranang Siang Indah No. 327, Sungai Penuh 87511, Jambi
+688	CUST000688	5391026601115900	Pramata Kania	Dk. Antapani Lama No. 458, Kediri 35780, JaBar
+689	CUST000689	4916546054862340	Cayadi Winarno M.TI.	Psr. Kebangkitan Nasional No. 642, Padangsidempuan 95481, SumUt
+690	CUST000690	5531142200907990	Shania Pujiastuti	Desa Bappenas  900, Banjar Jawa Barat
+691	CUST000691	5295994750697000	Eka Pradana	Kpg. Madiun No. 67, Administrasi Jakarta Pusat
+692	CUST000692	4024007130386880	Safina Uyaina	Wahid No. 127, Prabumulih 97322, NTT
+693	CUST000693	523235434840442O	Halimah Mardiah	Basoka 309 B12 Blitar Jawa Timur
+694	CUST000694	4716934641345900	Abi	Wahidin 966, Daerah Istimewa Yogyakarta
+695	CUST000695	5126480855572470	Irnanto Suryono S.I.Kom	Gg. Tubagus Ismail No. 848, Administrasi Jakarta Timur
+696	CUST000696	5242241754031350	Siti Nurdiyanti	Jalan Baing No. 9, Tasikmalaya Jawa Barat
+697	CUST000697	5479864287899780	Marsitto Firmansyah	Psr. Bahagia  No. 814, Samarinda 33039, Kalimantan Timur
+698	CUST000698	5123616962358720	Rudi Baktianto Prakasa M.Ak	Desa Pahlawan No 110, Prabumulih
+699	CUST000699	5543002542159720	Raihan Narji Maryadi	Dk. Sunaryo No. 140, Pangkal Pinang Bangka Belitung
+700	CUST000700	5310842372996320	Capa Gunawan	Gg. Kalimalang No. 33, Banjarmasin 60536, Kalimantan Selatan
+701	CUST000701	5576267396681980	Mahdi Budi Yanto	Jl. Tentara Pelajar No. 658 RT 7/8, Solok Sumatera barat
+702	CUST000702	4485738208448950	Atmaja Halim	Jln. Baabur Royan No. 561, Balikpapan , Kalimantan Timur
+703	CUST000703	5414991088771110	Iksan Suwarna	Ki. Dahlia No. 543, Madiun 25474, JaTim
+704	CUST000704	5156998675362530	Cahyadi	Ds. Merdeka No. 587, Pontianak, Kalimantan Barat
+705	CUST000705	4075611918558360	Nadia Rina Purwanti	Baha No. 165, Padangsidempuan 39417, DKI
+706	CUST000706	5461008152511090	Hesti Anggraini	Kampung Dipatiukur No. 174, Cimahi  Jawa Barat
+707	CUST000707	5180118689700000	Rahayu Olivia H	Ds. Badak No. 359, Madiun, Jatim
+708	CUST000708	4716350372213130	Rina Yance Uyainah	Dk. Labu No. 17, Medan Sumatera Utara
+709	CUST000709	523235434840442O	Halima Mardia	Blitar Jawa timur
+710	CUST000710	4716232276376110	Ratna Ade Purwanti S.H.	Kpg. Madiun No. 837, Palembang 98610, SumSel
+711	CUST000711	5161156836370260	Fitriyani Hasanah	Jr. Banda No. 42, Palu 91144, Sulteng
+712	CUST000712	4024007162691070	Maras Putra	Raden No. 527, Pekalongan 93952, SulBar
+713	CUST000713	5548040671917160	Diana Andriani	
+714	CUST000714	5512555832182850	Genta Husada	Jalan Kyai Haji Muwardi Nomor 962, Ambon 92429, Maluku
+715	CUST000715	5353419476217720	Suartini Jasmin	WR Supratman No. 23, Batam 27050, Kep Riau
+716	CUST000716	5549215284212220	Ratih Rahayu Wastuti M.Kom.	Ki. Jambu No. 29, Tarakan 40779, Kalimantan Utara
+717	CUST000717	5495214942928330	Nyoman Damar Prasetya	Jend. A. Yani No. 661, Banjar 74899, Jawa Barat
+718	CUST000718	5493961324104720	Upik Wisnu Pranowo S.IP	Gg. Gajah No. 833, Bengkulu
+719	CUST000719	4916546054862340	Cayadi Winarno M.TI.	Psr. Kebangkitan Nasional No. 642, Padangsidempuan 95481, SumUt
+720	CUST000720	4423330424853730	Mulyanto Putra S.E.I	Antapani Lm 758, Yogyakarta 
+721	CUST000721	5588228266984940	Amalia Unjani Usada	Jln. Sugiono 914, Tangerang 63470, Banten
+722	CUST000722	5568182379911740	Zizi Rachel Astuti M.TI.	Jr. Pasirkoja No. 644, Administrasi Jakarta Barat 
+723	CUST000723	4081427725150560	Gawati Wijayanti	Psr. Tubagus Ismail No. 119, Tanjung Pinang 47202, Maluku
+724	CUST000724	5454836293205520	Tantri Genta Lailasari, S.IP	Psr. Ketandan No. 648, Padangpanjang, SumBar
+725	CUST000725	5409162640301140	Lim Siau Khe	Pasar Suryo Pranoto No. 905, Sungai Penuh 23413, Jambi
+726	CUST000726	402400717041821O	Lukita Jailani Ega	Dk. Jendral Sudirman No. 896, Bandar Lampung 69294, Lampung
+727	CUST000727	4024007130386880	Safina 	Prabumulih  NTT
+728	CUST000728	5264761669081100	Cayadi Januar	Imam Bonjol 707 Makassar
+729	CUST000729	4412854937087760	Ani Ida Mandasari S.IP	Jln. Baan No. 360, Tebing Tinggi 31421, Riau
+730	CUST000730	4024007111906230	Paulin Tami Yuliarti	Arifin 432, Banjarbaru, KalTim
+731	CUST000731	4485297842393740	Usman Habibi	
+732	CUST000732	5548040671917160	Diana Andriani	
+733	CUST000733	5110303660585720	Clara Wijayanti	DKI Jakarta
+734	CUST000734	5128376927778700	Opan Hutasoit	Kampung Babakan 
+735	CUST000735	4567052743194440	Jessica Purnawati M.Ak	Psr. Radio No. 450, Malang
+736	CUST000736	5405425066528700	Lim Siaw Po	Sentot Alibasa No 324 RT 9 Ternate Maluku Utara
+737	CUST000737	4556085568899390	Nadia Lintang Agustina	Kyai Gede 483 Sumatra Barat, Kota Sawahlunto
+738	CUST000738	5385764714795100	Kencono	Jl. Dr Wahidin Sudirohusodo 48-A RT 019/05
+739	CUST000739	5414629215050580	Ghani Jagaraga Sitorus	Kpg. Gedebage Selatan No. 299, Makassar 71776, SulSel
+740	CUST000740	4445834100535960	Kemba Jagaraga	Jendral Yos Sudarso 488 Probolinggo
+741	CUST000741	6011010135093160	Clara Diana Prastuti S.IP	Salak 482 Kep Tidore Maluku Utara
+742	CUST000742	6011245588527180	Oni Nurdi Yanti	Jalan. Bakin 915, Sawahlunto SumBar
+743	CUST000743	5495214942928330	Nyoman Damar Prasetya	Jend. Ahmad Yani No. 661, Banjar Jawa Barat
+744	CUST000744	5385764714795100	Kencono	Jl. Dr Wahidin Sudirohusodo Blok 48-A RT 019/06 DI Jogjakarta
+745	CUST000745	6011234314231560	Karsa S	Jalan Ki. Abdul No. 401, Ternate  Maluku Utara
+746	CUST000746	6011160061976250	Soleh Santoso	Ds. Bata Putih No. 805, Madiun 75463, Jawa Timur
+747	CUST000747	5332639317878030	Rusmana Hutasoit	Dk. Basuki No. 348, Dumai 85252, Jambi
+748	CUST000748	4024007105085230	Umaya Waskito	Pasar Muwardi 538, Tangerang Selatan 26590
+749	CUST000749	402400717041821O	Lukita Jailani Ega	Dk. Jenderal Sudirman 896, Bandar Lampung 69294, Lampung
+750	CUST000750	5225743003513970	Almira M	Samarinda, Desa Antapani Lama RT 8 No 761 
+751	CUST000751	53018316520757SO	Kania Widiastuti	Kpg. Orang No. 210, Sibolga 98637, SulTra
+752	CUST000752	5353419476217720	Jasmin Suartini	Pasar W.R. Supratman No. 23, Batam 27050, Kep Riau
+753	CUST000753	4341617033845740	Pranawa Pranowo	Gg. Ketandan No. 292, Balikpapan 53215, Bengkulu
+754	CUST000754	4412854937087760	Ani Ida Mandasari S.IP	Jln. Baan No. 360, Tebing Tinggi 31421, Riau
+755	CUST000755	4532751137432220	I Gede Perkasa	Jl. Tukad Badung 168 C Denpasar – Bali
+756	CUST000756	5455165793658810	Adi Situmorang	Jalan Basoka Raya No. 650, Cimahi 90847, Jawa Barat
+757	CUST000757	4916138049100240	Gumelar	Jl.Cemara No.28A Randubelang, Sewon Yogyakarta
+758	CUST000758	5258132833092430	Henri Atmajaya	Jalan Taman Margasatwa no 12 Jakarta Selatan
+759	CUST000759	5301831652075TSO	Kania Widiastuti	Kpg. Orang No. 210, Sibolga 98637, SulTra
+760	CUST000760	6011245588527180	Oni Nurdiyanti	Jl Bakin No. 915, Sawahlunto SumBar
+761	CUST000761	4024007165484850	Wani Rahimah M.M.	Ds. Baabur Royan No. 360, Palangka Raya 52175, DKI
+762	CUST000762	5440093893953600	Aswani Aditya Tamba S.Pd	Bagonwoto  No. 970, PalangkaRaya 48561, KalTeng
+763	CUST000763	5364642336259190	Elis Harianti	Dk. Nanas No. 870, Cimahi 65113, Jabar
+764	CUST000764	5505004834695600	Latupono, Lantar G	Psr. Muwardi No. 682, Bau-Bau 77977, Sulawesi Tenggara
+765	CUST000765	5449924520294580	Jail G	Psr. Kyai Gede No. 542, Banjarbaru 10298, Kalimantan selatan
+766	CUST000766	5124860017913840	Pujiati Mila Piya	Laswi 353, Tangsel 15338 Banten
+767	CUST000767	5414776730028510	Ilyas Emong Sirait S.IP	Ki. Abdul Muis No. 196, Madiun 25937, SulBar
+768	CUST000768	5347353885442180	Restu Fujiati	Ds. B.Agam 1 No. 779, Administrasi Jakarta Barat
+769	CUST000769	5199644351019250	Pudji Aryani	
+770	CUST000770	5211654496507300	Annita 	Hang No 910, Pekan baru Riau
+771	CUST000771	5401081879464390	Gasti Agustina	Tebingtinggi Jambi
+772	CUST000772	4716483364O92100	Keisha Genta Mandasari	Ds. Pelajar Pejuang 45 No. 247, Bandung 79279, DKI
+773	CUST000773	4916138049100240	Gumilar	Jl.Cemara No.28A Randubelang, Sewon Yogyakarta
+774	CUST000774	5295994750697000	Eka Pradana	Kpg. Madiun No. 67, Administrasi Jakarta Pusat
+775	CUST000775	4024007130386880	Safina Uyainah	Desa Wahid No. 127, Prabumulih 97322, NTT
+776	CUST000776	5264761669081100	Cahyadi Yanuar	Jalan Imam Bonjol No 707 Sulawesi Selatan
+777	CUST000777	5467422222025940	Maya Yuliana Suryatmi S.Gz	Jln. Banceng Pondok No. 598, Yogyakarta 38591, JaTeng
+778	CUST000778	492942728846532O	Oman Marbun	Basoka Raya No. 559, Administrasi Jakarta Timur
+779	CUST000779	5594413739514990	Ade Ajeng Purwanti S.I.Kom	Jr. Umalas No. 445, Jayapura 20568, Papua
+780	CUST000780	5194720497047420	Anggabaya Maulana	Psr. Abdul Rahmat No. 997, Yogyakarta
+781	CUST000781	4716232276376110	Ratna Ade Purwanti S.H.	Kpg. Madiun No. 837, Palembang 98610, SumSel
+782	CUST000782	5124860017913840	Milla Piya P.	Tangerang Selatan, Laswi 353 dekat Sekolahan
+783	CUST000783	5250538521391670	Hadi Dirjo Wibisono	Jln. Cokroaminoto No. 649, Bitung 91110, Banten
+784	CUST000784	5503747054623440	Yuni O.	Kepulauan Riau, Batam - Sutarjo Blok B12 no 503
+785	CUST000785	4929474264800000	Devi Uyainah	Jr. Reksoninten No. 47, Bima 66782, Lampung
+786	CUST000786	5281628730857600	Indah Mandasari	Gg. Raya Ujungberung No. 987, Sungai Penuh 73212, SulUt
+787	CUST000787	5310842372996320	Capa Gunawan	Gg. Kalimalang No. 33, Banjarmasin 60536, Kalimantan Selatan
+788	CUST000788	5372185148217940	Fitria Sudiati S.IP	Jalan Ahmad Yani 734, Serang Banten
+789	CUST000789	5541779462110780	Zahra Indah Agustina	Untung Suropati No. 953, Bau-Bau Sulawesi Tenggara
+790	CUST000790	5514151401442140	Vicky hamima	Gg. Panjaitan No. 273, Tigaraksa 74832, Banten
+791	CUST000791	4024007177917710	Sabri	Kampung Agus Salim No. 527, Padang 86753, SumBar
+792	CUST000792	4485439495749170	Paramita Carla Kuswandari S.Farm	Dk. Tangkuban Perahu No. 985, Ambon 49432, Maluku
+793	CUST000793	5523559464675060	Faisah Agnes Mayasari	Jl. Reksoninten No. 241, Kediri Jawa Timur
+794	CUST000794	5576923751427170	Genta Uyainah S.Gz	Jln. Mohammad yamin Yamin No. 128, Medan 78777, Sumatera Utara
+795	CUST000795	5454836293205520	Tantri G. Lailasari, S.IP	Psr. Ketandan No. 648, Padangpanjang, SumBar
+796	CUST000796	4916440997786410	Junaidi 	Jln. Cikapayang No. 658, Yogyakarta 69067, Aceh
+797	CUST000797	5201777742666480	Ella Pertiwi	Ki. Abdul. Muis No. 863, Madiun
+798	CUST000798	5347353885442180	Restu Puji Hati	Ds. B.Agam 1 No. 779, Administrasi Jakarta Barat
+799	CUST000799	4929614581019170	Ina Yuniar	Jalan Abdul. Muis No. 691, Surakarta 97516, Jateng
+800	CUST000800	6011234314231560	Karsa S	Jalan Ki. Abdul 401, Ternate Maluku Utara
+801	CUST000801		Cawuk Saputra M.TI.	Jr. Baiduri No. 801, Singkawang 57908, DIY
+802	CUST000802	5207983845051470	Samia Rohayu	Ds. Padang No. 714, Cilegon 35940, Banten
+803	CUST000803	5498088515343240	I Nyoman Damar	Jl. Bisma No. 68, Ubud, Bali
+804	CUST000804	52312312312168500	Purwanto W Ardianto S.E.	Industri No. 549, Bitung SulUt
+805	CUST000805	5264376342570320	Eman Tasir Simbolon	Jln. Eka No. 896, Palopo 98944, MalUt
+806	CUST000806		Sabrina Handayani	Ki. Baranangsiang No. 771, Pematangsiantar 40651, Aceh
+807	CUST000807	5391026601115900	Permata kania	Dk. Antapani Lama No. 458, Kediri 35780, JaBar
+808	CUST000808	5305851571743840	Kawaca Napitupulu	Jln. Kyai Hj. Maskur No. 368, Surabaya, Jatim
+809	CUST000809	5110303660585720	Clara Wijayanti	Muwardi 207 Jakarta Timur
+810	CUST000810	5467422222025940	Maya Yuliana Suryatmi S.Gz	
+811	CUST000811	4528061539728550	Jelita Rahima	Gg. Gajah No. 599, Solo 39471, JaTim
+812	CUST000812	4485738208448950	Halim Atmaja S	Jln. Baabur Royam No. 561, Balikpapan Kalimantan Timur
+813	CUST000813	5505004834695600	Lantar Gilang L.	Psr. Muwardi No. 682, Bau-Bau 77977, Sulawesi Tenggara
+814	CUST000814	4532472213938120	Prabawa Wasita M.Ak	Gg. Gremet No. 35, Palu 29156, Kalimantan Selatan
+815	CUST000815	5460241322575910	Laila Pratiwi S.T.	Gg. Rajiman No. 524, Sibolga 77458, Sumatera Utara
+816	CUST000816	54299693 53420090	Rendy Perdana	Ds. Labu No. 761, Sabang 89889, Aceh
+817	CUST000817	5455165793658810	Adi Situmorang	Jalan Basoka Raya No. 650, Cimahi 90847, Jawa Barat
+818	CUST000818	6011208504813050	Clara Yulianti	Komplek Pelajar Pejuang 45 No. 577, Pangkal Pinang, Bangka Belitung
+819	CUST000819	5381356793479630	Qori Mulyani	Luwu No. 577, Palopo 15116, Sulawesi Selatan
+820	CUST000820	4445834100535960	Tampubolon, Kemba J	Jl Yos Sudarso 488 Jatim
+821	CUST000821	52344805123168500	Purwanto W Ardianto S.E.	Industri No. 549, Bitung SulUt
+822	CUST000822	5272108387968490	Joko Natsir 	Kampung Radio no 348 Tanjungbalai
+823	CUST000823	5124860017913840	Milla Piya Pujiati	Laswi No. 353, Tangerang Selatan 15338 Banten
+824	CUST000824	4532731244866860	I Gede Wayan	Jl. Nangka Selatan No. 163 Denpasar – Bali
+825	CUST000825	5374459816832910	Tasnim G Suryono	Gg. Jambu No. 811, Sungai Penuh 21373, KalUt
+826	CUST000826	4716694992580370	Bala Winarno S.H.	Abdul Muis No. 558, Pontianak  Kalimantan Barat
+827	CUST000827	531488O679274300	Devi Palastri	Jln. Bayan No. 733, Tangerang 13509, DIY
+828	CUST000828	4434742410753270	Nurul Anastasia Melani S.E.I	Pangkal Pinang - Mohammad Yamin No. 622
+829	CUST000829	5568182379911740	Zizi Rachel Astuti M.TI.	
+830	CUST000830	4485297842393740	Usman Habibi	Psr. Sunaryo No. 789, Pariaman 16488, Gorontalo
+831	CUST000831	4929416019069670	Salman Manullang S.Sos	Jln. Bayam No. 858, Salatiga Jawa Tengah
+832	CUST000832	5299703837527300	Eka Nashiruddin	Psr. Tentara Pelajar No. 227, Palembang SumSel
+833	CUST000833	5234609816983540	Elis Namaga	Jr. Wahidin No. 971, Blitar Jawa Timur
+834	CUST000834	4916783784508580	Mohammad	Psr. Ekonomi No. 258, Palu 92383, Sulawesi tengah
+835	CUST000835	5124860017913840	Mila Piya	Tangerang Selatan, Jalan Laswi no 353, Banten
+836	CUST000836	402400717041821O	Lukita Jailani Ega	Jend. Sudirman No. 896, Bandar Lampung 69294, Lampung
+837	CUST000837	5548040671917160	Diana Andriani	
+838	CUST000838	5225743003513970	Mardhiyah Almira	Samarinda, Jawa Barat
+839	CUST000839	4716172265464570	Dadap Tamba	Dk. Sudiarto No. 422, Bontang 85546, Maluku
+840	CUST000840	5588228266984940	Amalia Unjani Usada	Jalan Sugiono No. 914, Tangerang Banten
+841	CUST000841	5173375698838020	Irma Zizi Rahmawati	Dk. Babakan No. 920, Bandung 33057, Jabar
+842	CUST000842	5457906329359260	Bakti adi Situmorang	Jln Baranang Siang No. 189, Singkawang Kalimantan
+843	CUST000843	5220911672812730	Violet Citra Sudiati	Jalan Gajah no 587, Banjarmasin 
+844	CUST000844	4716172265464570	Dadap T	Dk. Sudiarto No. 422, Bontang 85546, Maluku
+845	CUST000845	5414991088771110	Iksan Suwrno	Ki. Dahlia No. 543, Madiun 25474, JaTim
+846	CUST000846	5275721168073160	Usada Tari	Bukit Tinggi Sumatera Barat, Ki Wahidin Sudirohusodo 62
+847	CUST000847	5498382229499510	Salimah Pertiwi	Baan No. 828, Malang 68837, Jawa Timur
+848	CUST000848	5114882255280530	Opung Mansur M.M.	Ki. R.E. Martadinata No. 391, Kendari 55051, DIY
+849	CUST000849	5385764714795100	Kencana	Dr Wahidin Sudirohusodo 48-A RT 019/06 DI Jogjakarta
+850	CUST000850	5166967713493690	Cahyo D Rajata	Papua, Cokroaminoto blok 2 no 971
+851	CUST000851	4081427725150560	Gawati Wijayanti	Psr. Tubagus Ismail No. 119, Tanjung Pinang 47202, Maluku
+852	CUST000852	5457906329359260	Bakti adi Situmorang	Jln Baranang Siang No. 189, Singkawang Kalimantan
+853	CUST000853	4556085568899390	Nadya Lintang Agustin	Kyai Gede No. 483, Sawahlunto - Sumatra barat
+854	CUST000854	4916475907608950	Ketut Wiana	Monkey Forest, Ubud, Bali
+855	CUST000855	5553748373175900	Marsito Warsita Marpaung	Dk. Bata Putih No. 7, Pangkal Pinang 93618, Bangka belitung
+856	CUST000856	5301831652075750	Kania Widiastuti	Kpg. Orang No. 210, Sibolga 98637, SulTra
+857	CUST000857	4716866427869500	Adhi	JL.Sugeng Jeroni No.28 Yogyakarta Yogyakarta
+858	CUST000858	5173375698838020	I Zizi Rahmawati	Dk. Babakan No. 920, Bandung 33057, Jabar
+859	CUST000859	4916662978148840	Najwa Widiastuti	Mohammad Toha No. 783, Pariaman 12736, Sumatera Barat
+860	CUST000860	5220911672812730	Violet Cita Sutiadi	Kalimantan Selatan, Banjarmasin Gajah 587
+861	CUST000861	5128376927778700	Opan Hutasoit	Kampung Babakan Malang
+862	CUST000862	5204646680624910	Asmadi	Metro, Abdullah 319 Jakarta Barat
+863	CUST000863	4716834641345900	Abi	Wahidin 966, DIY
+864	CUST000864	5207983845051470	Samiah Rahayu	Ds. Padang No. 714, Cilegon 35940, Banten
+865	CUST000865	4916546054862340	Cayadi Winarno M.TI.	Psr. Kebangkitan Nasional No. 642, Padangsidempuan 95481, SumUt
+866	CUST000866	47164833640921OO	Keisha Genta Mandasari	Ds. Pelajar Pejuang 45 No. 247, Bandung 79279, DKI
+867	CUST000867	4916475907608950	Ketut Wiana	Jln. Monkey Forest, Ubud, Bali
+868	CUST000868	554598606024658O	Nadia Umi Laksmiwati	Gang Lembong No. 771, Sorong Papua Barat
+869	CUST000869	6011208504813050	Clara Yulianti	Komplek Pelajar Pejuang 45 No. 577, Pangkal Pinang  Bangka Belitung
+870	CUST000870	4556056227010600	Dalima Prastuti	Jl. Suryo No. 553, Banjar  Jawa Barat
+871	CUST000871	4539393063123890	I Nyoman Perkasa	Jalan Tukad Badung 168 C Denpasar – Bali
+872	CUST000872	4485439495749170	Paramita Carla Kuswandari S.Farm	Dk. Tangkuban Perahu No. 985, Ambon 49432, Maluku
+873	CUST000873	5194720497047420	Angga Maulana	Psr. Abdul Rahmat No. 997, Yogyakarta
+874	CUST000874	5336688906202920	Dodo Napitu Pulu	Gg. Jayawijaya No. 460, Osua 32020, Papua
+875	CUST000875	6011158977332040	Asirwanda Pradana S.Gz	Ds. Bata Putih No. 805, Madiun 75463, Jawa Timur
+876	CUST000876	5585234814101620	Cakrawala Permadi	Jl. Laksamana 590, Makassar 90575, Sulawesi Selatan
+877	CUST000877	5545986060246580	Nadia Umi Laksmiwati	Gg. Lembong No. 771, Sorong Papua Barat
+878	CUST000878	5281628730857600	Indah Amanda Sari	Gg. Raya Ujungberung No. 987, Sungai Penuh 73212, SulUt
+879	CUST000879	5440093893953600	Aswani Aditya Tamba S.Pd	Dk. Bagonwoto  No. 970, Palangka Raya 48561, KalTeng
+880	CUST000880	5299703837527300	Eka Nashiruddin	Psr. Tentara Pelajar 227, Palembang, SumSel
+881	CUST000881	5264761669081100	Cahyadi Januar	Imam Bonjol 707 Makassar Sulawesi Selatan
+882	CUST000882	5596021438228220	Gandewa Simanjuntak	Jalan Labu No. 762, Kediri 52777, Jatim
+883	CUST000883	5475021535727150	Rachel Andriani	Desa Ekonomi No. 210 RT 2 RW 8, Pasuruan 75523, Jawa Timur
+884	CUST000884	5166967713493690	Rajata D Cahyo	 Cokroaminoto No. 971, Jayapura 78329, Papua
+885	CUST000885	5524587298406400	Radika Hendri Ramadan S.Gz	Jr. Yap Tjwan Bing 525, Tanjung Pinang 90972, Kep Riau
+886	CUST000886	4434742410753270	Nurul Anastasia Melani S.E.I	Kampung Muhammad Yamin 622 Pangkal Pinang
+887	CUST000887	KTP4532203651039110	Salsabila Zulaika	Jalan Bayakalibungur 937, Tanjungbalai SumUt
+888	CUST000888	5479864287899780	Marsito Firmansah	Psr. Bahagia  No. 814, Samarinda 33039, Kalimantan Timur
+889	CUST000889	5495024463314370	Saptono Maryanto	Kepulauan Tidore, Jalan Mulyadi no 830, Maluku Utara
+890	CUST000890	45396825OO256130	Maya Andriani	Ki. Bara No. 898, Kediri
+891	CUST000891	5500099863915OOO	Gasti Nilam Yuliarti M.Kom.	Ki. Otista No. 800, Sukabumi 71048, Banten
+892	CUST000892	5201777742666480	Ella Pertiwi	Ki. Abdul. Muis No. 863, Madiun
+893	CUST000893	4341617033845740	Pranawa Pranowo	Gg. Ketandan No. 292, Balikpapan 53215, Bengkulu
+894	CUST000894	4532751137432220	I Gede Perkasa	Jl. Tukad Badung 168 C Denpasar – Bali
+895	CUST000895	4556226415428850	Vivi Diana Rahimah M.TI.	Jr. Sentot Alibasa No. 972, Sukabumi Jabar
+896	CUST000896	5166967713493690	Cahya Rajata	 Cokroaminoto blok 2 no 971, Jayapura  Papua
+897	CUST000897	4716172265464570	Dadap Tambah	Dk. Sudiarto No. 422, Bontang 85546, Maluku
+898	CUST000898	KTP5305851571743840	Kawaca Napitupulu S.T.	Jln. K.H. Maskur No. 368, Surabaya, Jatim
+899	CUST000899	4716557588698410	Oni Dina Pertiwi	Ki. Basoka Raya No. 111, Bogor  Jabar
+900	CUST000900	6011219931100860	Clara Yulianti	Desa Banceng Pondok No. 626, Banjarbaru 64255, Kalimantan Selatan
+901	CUST000901	5461008152511090	Hesti Anggraini	Kpg. Dipatiukur No. 174, Cimahi 53414, Jawa Barat
+902	CUST000902	5498382229499510	Salimah Pertiwi	Jl. Baan  GH 2 / 828, Malang  Jawa Timur
+903	CUST000903	4024007165484850	Wani Rahimah M.M.	Ds. Baabur Royan No. 360, Palangka Raya 52175, DKI
+904	CUST000904	4075611918558360	Nadia Rina Purwanti	Gang Baha No. 165, Padangsidempuan 39417, DKI
+905	CUST000905	4341617033845740	Pranawa Pranowo	Gg. Ketandan No. 292, Balikpapan 53215, Bengkulu
+906	CUST000906	4024007107685700	Zizi Y	Kampung Rajawali Timur No. 60, Sorong 68431, NTB
+907	CUST000907	5585234814101620	Cakrawala Permadi	Jl. Laksamana No. 590, Makassar 90575, Sulawesi Selatan
+908	CUST000908	5124860017913840	Milla Pia Fujiati	Laswi No. 353, Tangerang Selatan 15338 Banten
+909	CUST000909	53148806792743OO	Devi Palastri	Jln. Bayan No. 733, Tangerang 13509, DIY
+910	CUST000910	5440093893953600	Aswani Aditya Tamba S.Pd	Kabupaten Palangkaraya, Bagonwoto 970, Kalimantan Tengah
+911	CUST000911	5332639317878030	Hutasoit Luwes Rusman	Basuki 348, Dumai Kode Pos 85252, Jambi
+912	CUST000912	5194720497047420	Angga Baya Maulana	Pasar Abdul Rahmat No. 997, Yogyakarta
+913	CUST000913	5409162640301140	Lim Siau Khe	Pasar Suryo Pranoto No. 905, Sungai Penuh 23413, Jambi
+914	CUST000914	4556226415428850	Vivi Diana Rahimah M.TI.	Jr. Sentot Alibasa No. 972, Sukabumi
+915	CUST000915	5475021535727150	Rahel Andriani	Ekonomi No. 210 RT/RW 2/8, Pasuruan 75523, Jawa Timur
+916	CUST000916	4445834100535960	Kemba Jaga Raga	Jawa Timur Probolinggo, Yos Sudarso 488
+917	CUST000917	5594655853652760	Lidya Nurdiyanti	Psr. Gremet No. 31, Padangpanjang 91131, Sumatera Barat
+918	CUST000918	4485024556028240	Nadia Yuniar S.IP	Ds. Bata Putih No. 986, Kupang 49671, Gorontalo
+919	CUST000919	5252399824747070	Budi Napitupulu	Psr. Gading No. 904, Sukabumi 89588, Banten
+920	CUST000920	5512555832182850	Genta Usada	Kyai Haji Muwardi  962, Ambon  Maluku
+921	CUST000921	4485297842393740	Usman Habibi	Psr. Sunaryo No. 789, Pariaman 16488, Gorontalo
+922	CUST000922	4539127383314490	Kadir Wibisono S.H.	Komp. Pondok Cilegon Indah B13/9 Banten
+923	CUST000923	5374459816832910	Tasnim Gadang Suryono	Gg. Jambu No. 811, Sungai Penuh 21373, KalUt
+924	CUST000924	4485920695398470	Kemba Danu	Labu No. 442, Cirebon, JaBar
+925	CUST000925	5405490014300840	Tio Ban Cung	Dk. Rumah Sakit No. 23, Palembang 91530, JaTeng
+926	CUST000926	5192407456579430	Yulia Pia	
+927	CUST000927	4532762862978300	Vera Victoria Hartati Prabowo Nainggolan	Gang Kalimalang No 298 Cilegon, Banten
+928	CUST000928	4485558618892200	Jono Dabukke	Kpg. Basmol Raya No. 123, Singkawang 35483, Kalimantan
+929	CUST000929	5500099863915000	Gasti Nilam Yuliarti M.Kom.	Ki. Otista No. 800, Sukabumi 71048, Banten
+930	CUST000930		Bakda Sitorus	Jln. Gajah No. 370, Bontang 94921
+931	CUST000931	4434742410753270	Nurul Anastasia Melani S.E.I	Kpg. Moch. Yamin No. 622, Pangkal Pinang 69602
+932	CUST000932	4716700453729410	Muhammad Simanjuntak M.Ak	Gg. Ters. Buah Batu No. 396, Tual 94508, KalBar
+933	CUST000933	5433267102432260	Rendy Perdana	Jln. Mulyadi No. 430, Merauke 48881, Papua
+934	CUST000934	4485048312919220	Bella Novita Sari S.Kom	Kpg. Bahagia  Timur No. 185, Palopo 58744, SulSel
+935	CUST000935	6011068935379450	Prastuti Elisa	Kpg. Suprapto No. 60, Tidore Kepulauan 33603, Maluku Utara
+936	CUST000936	525239982474707O	Budi Napitu Pulu	Pasar Gading No. 904, Sukabumi Banten
+937	CUST000937	5541779462110780	Zahra Indah Agustina	Untung Suropati No. 953, Bau-Bau Sulawesi Tenggara
+938	CUST000938	5449924520294580	Zail Gunawan 	Kyai Gede 542, Banjarbaru  Kalimantan selatan
+939	CUST000939	5299703837527300	Eka Nashiruddin	Tentara Pelajar No. 227, Palembang 95637, SumSel
+940	CUST000940	5513356044383860	Puti Ratna Padmasari S.IP	Desa Wahidin Sudirohusodo No. 799, Kupang, NTT
+941	CUST000941	5124860017913840	Mila Pia	TangSel, Laswi 353 RT 7 RW 8, Banten
+942	CUST000942	5255753891363310	Oni Yulianti	Dk. Haji No. 480, Tangerang 36130, Banten
+943	CUST000943		Prastuti Elisa	Kpg. Suprapto No. 60, Tidore Kepulauan 33603, Maluku Utara
+944	CUST000944	4075611918558360	Nadia Rina Purwanti	Baha 165, Padangsidempuan 39417, DKI
+945	CUST000945	5553748373175900	Marsito Warsita Marpaung	Dk. Bata Putih No. 7, Pangkal Pinang 93618, Bangka belitung
+946	CUST000946	5576923751427170	Genta Uyainah S.Gz	Jln. Moch. Yamin No. 128, Medan 78777, Sumatera Utara
+947	CUST000947	5214145029625140	Vivi Cornelia Hastuti	Jln. Lada No. 965, Depok JaBar
+948	CUST000948	4716694992580370	Bala Winarno S.H.	Abdul Muis No. 558, Pontianak  Kalimantan Barat
+949	CUST000949	54287485 40753890	Dinda Padma Hastuti	Jl. Cikutra Barat No. 598, Langsa, Aceh
+950	CUST000950	5308932649912500	Martani Prasasta	Ki. Basmol Raya No. 417, Bandaraceh 13031, Aceh
+951	CUST000951	4716936601849160	Warsa Haryanto S.Psi	Ds. Bayam No. 81, Surabaya 44957, JaTim
+952	CUST000952	5495214942928330	Nyoman Damar Prasetya	Jend. A. Yani No. 661, Banjar Jawa Barat
+953	CUST000953	5385764714795100	Kencana	Jalan Dr Wahidin Sudirohusodo 48 RT 019/06 DI Jogjakarta
+954	CUST000954	4716172265464570	Dadap Tambah	Dk. Sudiarto No. 422, Bontang 85546, Maluku
+955	CUST000955	4539393063123890	I Nyoman Perkasa	Jalan Tukad Badung 168 C Denpasar – Bali
+956	CUST000956	5281628730857600	Indah Manda Sari	Gg. Raya Ujungberung No. 987, Sungai Penuh 73212, SulUt
+957	CUST000957	5211654496507300	Anitta	Jalan Hang nomor 910, Pekanbaru Riau
+958	CUST000958	5161156836370260	Fitriani Hassanah	Jr. Banda No. 42, Palu 91144, Sulteng
+959	CUST000959	4532181623081990	Candra Yusuf Suryana	Pasar Jamika No. 878, Batam 30046, Riau
+960	CUST000960	453968250025613O	Maya Andriani	Ki. Bara No. 898, Kediri
+961	CUST000961	5391026601115900	Kania Permata	Dk. Antapani Lama No. 458, Kediri 35780, JaBar
+962	CUST000962	5391026601115900	Kania Parmata	Dk. Antapani Lama No. 458, Kediri 35780, JaBar
+963	CUST000963	5467715091864550	Mana Zulkarnain	Jalan Baung No. 285, Langsa 85710, Aceh
+964	CUST000964	5391026601115900	Kania Permata	Dk. Antapani Lama No. 458, Kediri 35780, JaBar
+965	CUST000965	5166967713493690	Cahyo Danuja Rajata	 Cokroaminoto No. 971, Jayapura 78329, Papua
+966	CUST000966	5543002542159720	Raihan Nardji Maryadi	 Sunaryo 140, Pangkal Pinang Bangka Belitung
+967	CUST000967	5400476050223110	Elvin Kardi Prasetya M.Ak	Gg. Sutoyo No. 927, Bandar Lampung 90965, Lampung
+968	CUST000968	4532181623081990	Candra Yusuf Suryono	Psr. Jamika No. 878, Batam 30046, Riau
+969	CUST000969	5585234814101620	Tjakrawala Permadi	Jl. Laksamana No. 590, Makassar, Sulawesi Selatan
+970	CUST000970	5374459816832910	Tasnim Gadang Suryono	Gg. Jambu No. 811, Sungai Penuh 21373, KalUt
+971	CUST000971	4532265704299040	Perkasa Wibisana	Gg. M.T. Haryono No. 998, Banjarbaru 90923, Kalimantan Selatan
+972	CUST000972	6011245588527180	Oni Nurdi Yanti	Jln. Bakin No. 915, Sawahlunto SumBar
+973	CUST000973	5110303660585720	Clara Wijayanti	Jr. Muwardi No. 207, JakTim, DKI
+974	CUST000974	4532762862978300	Vera Victoria Hartati Prabowo Nainggolan	Gang Kalimalang No 298 Cilegon, Banten
+975	CUST000975	4532203651039110	Salsabila Zulaika	Jalan Baya Kali Bungur No. 937, Tanjungbalai 53991, Sumatera Utara
+976	CUST000976	5270204851583120	Pranawa Pradana	Dk. Flores No. 350, Jambi 
+977	CUST000977	KTP4556597358461300	Banara Nashiruddin	Jr. Adisucipto No. 105, Gading Serpong, Tangerang Selatan
+978	CUST000978	4716700453729410	Muhammad Simanjuntak M.Ak	Gg. Ters. Buah Batu No. 396, Tual 94508, KalBar
+979	CUST000979	5225743003513970	Almira Mardhiyah	Ds. Antapani Lama No. 761, Samarinda 87551, Jawa Barat
+980	CUST000980	4716232276376110	Ratna Ade Purwanti S.H.	Kpg. Madiun No. 837, Palembang 98610, SumSel
+981	CUST000981	KTP5305851571743840	Kawaca Napitupulu	Jln. Kyai Haji Maskur No. 368, Surabaya 64869, Jatim
+982	CUST000982	5425146328741730	Waluyo J Prasetya	Pasar Bakti 699 NTT
+983	CUST000983	4556042253011460	Mustika Wibowo	Psr. Honggowongso No. 650, Cimahi 14565, Gorontalo
+984	CUST000984	4024007177917710	Sabri P	Kpg. Agus Salim No. 527, Padang 86753
+985	CUST000985	KTP4556475749481800	Olivia Rahayu	Dk. Soekarno Hatta No. 770, Batu 76388, JaBar
+986	CUST000986	4539604112909270	Respati P Mulyana	Diponegoro No. 171, Probolinggo 57006, Jawa Timur
+987	CUST000987	5568182379911740	Zizi Rachel Astuti M.TI.	
+988	CUST000988	5409162640301140	Lim Xiao Ke	Pasar Suryo Pranoto No. 905, Sungai Penuh 23413, Jambi
+989	CUST000989	4341617033845740	Pranawa Pranowo	Gg. Ketandan No. 292, Balikpapan 53215, Bengkulu
+990	CUST000990	5457906329359260	Bakti adi Situmorang	Jalan Baranang Siang No. 189, Singkawang Kalimantan
+991	CUST000991	4929571257922850	Damu M	Pangkal Pinang Jalan Bahagia 990, Bangka Belitung
+992	CUST000992	5553748373175900	Marsito Warsita Marpaung	Dk. Bata Putih No. 7, Pangkal Pinang 93618, Bangka belitung
+993	CUST000993	5334951287701100	Hasna Suryatmi	Psr. Barat No. 348, Pariaman 56073, Sumatera Barat
+994	CUST000994	5192407456579430	Yulia P Permata	Jr. Banda No. 636, Tanjung Pinang 45530, Banten
+995	CUST000995	5124567316757880	Olga Tampubolon	
+996	CUST000996	5588228266984940	Husada Amelia Unjani	Jalan Sugiono No. 914, Tangerang Banten
+997	CUST000997	4556056227010600	Dalima Prastuti 	Jl. Suryo No. 553, Banjar  Jawa Barat
+998	CUST000998	4716350372213130	Rina Yance Uyainah	Dk. Labu No. 171, Medan SumateraUtara
+999	CUST000999	6011068935379450	Elisa Prastuti	
+1000	CUST001000	4716483364092100	Keisha Genta Mandasari	Ds. Pelajar Pejuang 45 No. 247, Bandung 79279, DKI
